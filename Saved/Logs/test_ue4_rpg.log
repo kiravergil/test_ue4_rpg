@@ -1,4 +1,4 @@
-﻿Log file open, 07/31/18 21:28:25
+﻿Log file open, 08/03/18 19:18:02
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: test_ue4_rpg
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.178905
+LogStats: Stats thread started at 0.169804
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.091s to configure plugins.
+LogStreaming: Display: Took  0.095s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -114,16 +114,16 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: Build: ++UE4+Release-4.20-CL-4212847
-LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
 LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Net CL: 4212847
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1050 Ti
-LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
-LogInit: Command Line:  
+LogInit: Command Line: -EpicPortal 
 LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 20
@@ -147,441 +147,324 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.07.31-18.28.26:151][  0]LogInit: Selected Device Profile: [Windows]
-[2018.07.31-18.28.26:151][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.07.31-18.28.26:160][  0]LogHAL: Display: Platform has ~ 8 GB [8523440128 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.07.31-18.28.26:160][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.07.31-18.28.26:160][  0]LogInit: Going up to parent DeviceProfile []
-[2018.07.31-18.28.26:161][  0]LogInit: Computer: DESKTOP-359PM8M
-[2018.07.31-18.28.26:161][  0]LogInit: User: Kira
-[2018.07.31-18.28.26:161][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.07.31-18.28.26:161][  0]LogInit: High frequency timer resolution =3.117187 MHz
-[2018.07.31-18.28.26:161][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2018.07.31-18.28.26:161][  0]LogMemory: Platform Memory Stats for Windows
-[2018.07.31-18.28.26:161][  0]LogMemory: Process Physical Memory: 99.87 MB used, 99.87 MB peak
-[2018.07.31-18.28.26:161][  0]LogMemory: Process Virtual Memory: 84.10 MB used, 84.10 MB peak
-[2018.07.31-18.28.26:161][  0]LogMemory: Physical Memory: 5217.23 MB used,  2911.36 MB free, 8128.59 MB total
-[2018.07.31-18.28.26:161][  0]LogMemory: Virtual Memory: 4619.21 MB used,  2911.36 MB free, 134217728.00 MB total
-[2018.07.31-18.28.26:174][  0]LogInit: Using OS detected language (ru-RU).
-[2018.07.31-18.28.26:174][  0]LogInit: Using OS detected locale (ru-RU).
-[2018.07.31-18.28.26:174][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
-[2018.07.31-18.28.26:176][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
-[2018.07.31-18.28.26:176][  0]LogInit: Setting process to per monitor DPI aware
-[2018.07.31-18.28.26:196][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.07.31-18.28.26:196][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.07.31-18.28.26:344][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.07.31-18.28.26:344][  0]LogD3D11RHI: D3D11 adapters:
-[2018.07.31-18.28.26:390][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
-[2018.07.31-18.28.26:390][  0]LogD3D11RHI:       4018/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.07.31-18.28.26:392][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.07.31-18.28.26:392][  0]LogD3D11RHI:       0/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.07.31-18.28.26:392][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.07.31-18.28.26:398][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.07.31-18.28.26:398][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
-[2018.07.31-18.28.26:398][  0]LogWindows: EnumDisplayDevices:
-[2018.07.31-18.28.26:398][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
-[2018.07.31-18.28.26:399][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2018.07.31-18.28.26:399][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2018.07.31-18.28.26:399][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2018.07.31-18.28.26:399][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.07.31-18.28.26:399][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
-[2018.07.31-18.28.26:399][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
-[2018.07.31-18.28.26:399][  0]LogD3D11RHI:      Driver Date: 6-24-2018
-[2018.07.31-18.28.26:399][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
-[2018.07.31-18.28.26:431][  0]LogD3D11RHI: Async texture creation enabled
-[2018.07.31-18.28.26:453][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.07.31-18.28.26:501][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal Projects/test_ue4_rpg/Intermediate/Shaders/WorkingDirectory/2996/).
-[2018.07.31-18.28.26:501][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kira/AppData/Local/Temp/UnrealShaderWorkingDir/371B919046DD0DDA0EDE5EAD5BA530CB/'.
-[2018.07.31-18.28.26:725][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.07.31-18.28.26:737][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.07.31-18.28.26:750][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.07.31-18.28.26:762][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.07.31-18.28.26:775][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.07.31-18.28.26:787][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.07.31-18.28.26:798][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.07.31-18.28.26:811][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.07.31-18.28.26:816][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:895][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.07.31-18.28.26:896][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.07.31-18.28.26:954][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.07.31-18.28.26:954][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.07.31-18.28.26:979][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.07.31-18.28.26:979][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.07.31-18.28.26:991][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.07.31-18.28.27:002][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.07.31-18.28.27:016][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.07.31-18.28.27:027][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.07.31-18.28.27:036][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.07.31-18.28.27:036][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.07.31-18.28.27:074][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.07.31-18.28.27:074][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.07.31-18.28.27:074][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.07.31-18.28.27:954][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.07.31-18.28.28:201][  0]LogDerivedDataCache: Loaded boot cache 0.25s 71MB C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.07.31-18.28.28:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.07.31-18.28.28:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/test_ue4_rpg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.07.31-18.28.28:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.07.31-18.28.28:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/test_ue4_rpg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.07.31-18.28.28:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.07.31-18.28.28:272][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.07.31-18.28.28:284][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.07.31-18.28.28:284][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.07.31-18.28.28:284][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.07.31-18.28.28:304][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.07.31-18.28.28:305][  0]LogSlate: Using FreeType 2.6.0
-[2018.07.31-18.28.28:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.07.31-18.28.28:752][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
-[2018.07.31-18.28.29:201][  0]LogInit: Selected Device Profile: [Windows]
-[2018.07.31-18.28.29:796][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.07.31-18.28.29:914][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.07.31-18.28.29:914][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.07.31-18.28.29:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.07.31-18.28.29:915][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.07.31-18.28.30:001][  0]LogNetVersion: test_ue4_rpg 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3171448258)
-[2018.07.31-18.28.31:417][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.118448 seconds
-[2018.07.31-18.28.31:423][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.07.31-18.28.31:423][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.07.31-18.28.31:423][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.07.31-18.28.35:374][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.07.31-18.28.35:400][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.07.31-18.28.36:058][  0]SourceControl: Source control is disabled
-[2018.07.31-18.28.36:059][  0]SourceControl: Source control is disabled
-[2018.07.31-18.28.36:126][  0]SourceControl: Source control is disabled
-[2018.07.31-18.28.36:146][  0]SourceControl: Source control is disabled
-[2018.07.31-18.28.37:019][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.07.31-18.28.37:189][  0]LogOcInput: OculusInput pre-init called
-[2018.07.31-18.28.37:469][  0]LogEngine: Initializing Engine...
-[2018.07.31-18.28.37:469][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.07.31-18.28.37:470][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.07.31-18.28.37:470][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.07.31-18.28.37:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.07.31-18.28.37:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.07.31-18.28.37:983][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.07.31-18.28.38:054][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.07.31-18.28.38:096][  0]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.07.31-18.28.38:125][  0]LogInit: FAudioDevice initialized.
-[2018.07.31-18.28.38:125][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.07.31-18.28.38:131][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.07.31-18.28.38:132][  0]LogInit: Texture streaming: Enabled
-[2018.07.31-18.28.38:275][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.07.31-18.28.38:323][  0]LogInit: Transaction tracking system initialized
-[2018.07.31-18.28.38:507][  0]BlueprintLog: New page: Editor Load
-[2018.07.31-18.28.39:190][  0]LocalizationService: Localization service is disabled
-[2018.07.31-18.28.41:037][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.07.31-18.28.41:037][  0]LogCook: Display: Mobile HDR setting 1
-[2018.07.31-18.28.41:037][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.07.31-18.28.41:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.07.31-18.28.41:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.07.31-18.28.41:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.07.31-18.28.41:037][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.07.31-18.28.41:580][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/' took 0.03s
-[2018.07.31-18.28.41:946][  0]SourceControl: Source control is disabled
-[2018.07.31-18.28.41:946][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.07.31-18.28.41:978][  0]LightingResults: New page: Lighting Build
-[2018.07.31-18.28.41:990][  0]MapCheck: New page: Map Check
-[2018.07.31-18.28.41:991][  0]LightingResults: New page: Lighting Build
-[2018.07.31-18.28.45:111][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2018.07.31-18.28.45:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.07.31-18.28.45:218][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.07.31-18.28.45:275][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56,906ms to complete.
-[2018.07.31-18.28.45:275][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.329
-[2018.07.31-18.28.45:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.07.31-18.28.45:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.07.31-18.28.45:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.07.31-18.28.45:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.07.31-18.28.45:691][  0]LogCollectionManager: Loaded 0 collections in 0.000771 seconds
-[2018.07.31-18.28.45:826][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Saved/Collections/' took 0.01s
-[2018.07.31-18.28.45:827][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/Developers/Kira/Collections/' took 0.00s
-[2018.07.31-18.28.45:827][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/Collections/' took 0.01s
-[2018.07.31-18.28.45:827][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.07.31-18.28.45:839][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2572 classes and 603 folders.
-[2018.07.31-18.28.45:943][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.07.31-18.28.46:275][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.07.31-18.28.46:351][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.07.31-18.28.46:513][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.07.31-18.28.46:516][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.07.31-18.28.46:529][  0]LogSlate: Took 0.010260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.07.31-18.28.46:715][  0]LogRenderer: Reallocating scene render targets to support 1300x924 Format 10 NumSamples 1 (Frame:1).
-[2018.07.31-18.28.46:903][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.07.31-18.28.46:903][  0]LogLoad: (Engine Initialization) Total time: 21.80 seconds
-[2018.07.31-18.28.46:903][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.07.31-18.28.46:923][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.07.31-18.28.46:966][  0]LogContentStreaming: Texture pool size now 3000 MB
-[2018.07.31-18.28.47:023][  0]LogSlate: Took 0.014826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.07.31-18.28.47:075][  1]LogAssetRegistry: Asset discovery search completed in 18.3457 seconds
-[2018.07.31-18.28.47:078][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.07.31-18.28.47:078][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
-[2018.07.31-18.33.55:202][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.07.31-18.34.58:514][792]LogRenderer: Reallocating scene render targets to support 1516x924 Format 10 NumSamples 1 (Frame:4686).
-[2018.07.31-18.39.18:533][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.18:569][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:027][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:027][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:027][504]LogPackageName: SearchForPackageOnDisk took   1.445s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:028][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2018.07.31-18.39.20:028][504]LogPackageName: SearchForPackageOnDisk took   1.428s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:028][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2018.07.31-18.39.20:029][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:029][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:029][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:136][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:136][504]LogPackageName: SearchForPackageOnDisk took   0.108s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:136][504]LogPackageName: SearchForPackageOnDisk took   0.108s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:136][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2018.07.31-18.39.20:137][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2018.07.31-18.39.20:137][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:137][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:137][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:137][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:196][504]LogPackageName: SearchForPackageOnDisk took   0.059s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:196][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.39.20:196][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:196][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:271][504]LogPackageName: SearchForPackageOnDisk took   0.059s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:271][504]LogPackageName: SearchForPackageOnDisk took   0.075s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.39.20:271][504]LogPackageName: SearchForPackageOnDisk took   0.075s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:271][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:272][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:272][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:335][504]LogPackageName: SearchForPackageOnDisk took   0.063s, but failed to resolve Fire_Fortress.
-[2018.07.31-18.39.20:335][504]LogPackageName: SearchForPackageOnDisk took   0.063s, but failed to resolve Fire_Fortress.
-[2018.07.31-18.39.20:335][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
-[2018.07.31-18.39.20:335][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
-[2018.07.31-18.39.20:335][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:335][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.39.20:335][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:335][504]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.39.20:402][504]LogPackageName: SearchForPackageOnDisk took   0.066s, but failed to resolve Fire_Fortress.
-[2018.07.31-18.39.20:402][504]LogPackageName: SearchForPackageOnDisk took   0.066s, but failed to resolve Fire_Fortress.
-[2018.07.31-18.39.20:402][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
-[2018.07.31-18.39.20:402][504]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
-[2018.07.31-18.42.58:015][ 74]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.42.58:015][ 74]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.42.59:984][ 74]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.42.59:984][ 74]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.42.59:984][ 74]LogPackageName: SearchForPackageOnDisk took   1.969s, but failed to resolve S_ClothTarps_03.
-[2018.07.31-18.42.59:984][ 74]LogPackageName: SearchForPackageOnDisk took   1.965s, but failed to resolve S_ClothTarps_03.
-[2018.07.31-18.42.59:984][ 74]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
-[2018.07.31-18.42.59:984][ 74]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
-[2018.07.31-18.51.53:261][ 41]LogPackageName: Warning: String asset reference "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.53:261][ 41]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.55:583][ 41]LogPackageName: Warning: String asset reference "SM_Snow_Snow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.55:583][ 41]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.55:583][ 41]LogPackageName: SearchForPackageOnDisk took   2.317s to resolve SM_Snow_Snow.
-[2018.07.31-18.51.55:583][ 41]LogPackageName: SearchForPackageOnDisk took   2.322s to resolve SM_Snow_Snow.
-[2018.07.31-18.51.58:235][ 42]LogPackageName: Warning: String asset reference "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.58:235][ 42]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.58:235][ 42]LogPackageName: Warning: String asset reference "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.58:235][ 42]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.58:726][ 42]LogPackageName: SearchForPackageOnDisk took   0.798s, but failed to resolve Env_Ice_Foliage.
-[2018.07.31-18.51.58:726][ 42]LogPackageName: Warning: String asset reference "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
-[2018.07.31-18.51.58:726][ 42]LogPackageName: SearchForPackageOnDisk took   0.491s, but failed to resolve Env_Ice_Foliage.
-[2018.07.31-18.51.58:726][ 42]LogPackageName: Warning: String asset reference "Env_Ice_Foliage.Mesh.SM_Snowy_Pine_Tree" could not be resolved.
-[2018.07.31-18.51.58:779][ 43]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.58:779][ 43]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.58:846][ 43]LogPackageName: SearchForPackageOnDisk took   0.067s, but failed to resolve JW_Ice_Mountain.
-[2018.07.31-18.51.58:846][ 43]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
-[2018.07.31-18.51.58:850][ 43]LogPackageName: Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.58:850][ 43]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.58:922][ 43]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.58:922][ 43]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.58:922][ 43]LogPackageName: SearchForPackageOnDisk took   0.073s, but failed to resolve Exo_Deco01.
-[2018.07.31-18.51.58:922][ 43]LogPackageName: Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
-[2018.07.31-18.51.58:932][ 44]LogPackageName: SearchForPackageOnDisk took   0.068s, but failed to resolve JW_Ice_Mountain.
-[2018.07.31-18.51.58:932][ 44]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
-[2018.07.31-18.51.58:932][ 44]LogPackageName: Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.58:932][ 44]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:111][ 45]LogPackageName: SearchForPackageOnDisk took   0.065s, but failed to resolve Exo_Deco01.
-[2018.07.31-18.51.59:111][ 45]LogPackageName: Warning: String asset reference "Exo_Deco01.SM.Mesh.WoodenBarrel_Intact" could not be resolved.
-[2018.07.31-18.51.59:478][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:478][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:637][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:637][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:637][ 45]LogPackageName: SearchForPackageOnDisk took   0.126s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:637][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
-[2018.07.31-18.51.59:637][ 45]LogPackageName: SearchForPackageOnDisk took   0.160s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:637][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RuinedSteps001" could not be resolved.
-[2018.07.31-18.51.59:638][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:638][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:638][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:638][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:729][ 45]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:729][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
-[2018.07.31-18.51.59:730][ 45]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:730][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_Grinder001" could not be resolved.
-[2018.07.31-18.51.59:730][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:730][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:730][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:730][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:818][ 45]LogPackageName: SearchForPackageOnDisk took   0.088s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:818][ 45]LogPackageName: SearchForPackageOnDisk took   0.088s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:818][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2018.07.31-18.51.59:818][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
-[2018.07.31-18.51.59:818][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:818][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:819][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:819][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: SearchForPackageOnDisk took   0.092s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: SearchForPackageOnDisk took   0.092s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.51.59:910][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: SearchForPackageOnDisk took   0.089s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.00:002][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: SearchForPackageOnDisk took   0.080s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: SearchForPackageOnDisk took   0.082s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Texture.Env_Ice_RockyStairs01" could not be resolved.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.00:083][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: SearchForPackageOnDisk took   0.116s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: SearchForPackageOnDisk took   0.116s, but failed to resolve Env_Ice_Rocky.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_RockTerrain01" could not be resolved.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: Warning: String asset reference "Env_Ice_RuinedWalls001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.00:199][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:280][ 45]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.00:281][ 45]LogPackageName: SearchForPackageOnDisk took   0.082s, but failed to resolve Env_Ice_RuinedWalls001.
-[2018.07.31-18.52.00:281][ 45]LogPackageName: Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
-[2018.07.31-18.52.00:287][ 46]LogPackageName: SearchForPackageOnDisk took   0.082s, but failed to resolve Env_Ice_RuinedWalls001.
-[2018.07.31-18.52.00:287][ 46]LogPackageName: Warning: String asset reference "Env_Ice_RuinedWalls001" could not be resolved.
-[2018.07.31-18.52.23:746][116]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.23:746][116]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.23:846][116]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.23:846][116]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.23:846][116]LogPackageName: SearchForPackageOnDisk took   0.099s, but failed to resolve m_FogSheet_02.
-[2018.07.31-18.52.23:846][116]LogPackageName: Warning: String asset reference "m_FogSheet_02" could not be resolved.
-[2018.07.31-18.52.24:072][118]LogPackageName: SearchForPackageOnDisk took   0.077s, but failed to resolve m_FogSheet_02.
-[2018.07.31-18.52.24:072][118]LogPackageName: Warning: String asset reference "m_FogSheet_02" could not be resolved.
-[2018.07.31-18.52.27:087][126]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.27:087][126]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.27:207][126]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.27:207][126]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.27:207][126]LogPackageName: SearchForPackageOnDisk took   0.120s, but failed to resolve Env_ALL_Artifacts.
-[2018.07.31-18.52.27:207][126]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
-[2018.07.31-18.52.27:419][128]LogPackageName: SearchForPackageOnDisk took   0.078s, but failed to resolve Env_ALL_Artifacts.
-[2018.07.31-18.52.27:419][128]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
-[2018.07.31-18.52.31:445][139]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.31:445][139]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.31:557][139]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.52.31:557][139]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.52.31:557][139]LogPackageName: SearchForPackageOnDisk took   0.111s, but failed to resolve S_ClothTarps_03.
-[2018.07.31-18.52.31:557][139]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
-[2018.07.31-18.52.31:787][141]LogPackageName: SearchForPackageOnDisk took   0.086s, but failed to resolve S_ClothTarps_03.
-[2018.07.31-18.52.31:787][141]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
-[2018.07.31-18.58.15:639][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.15:639][163]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.17:541][163]LogPackageName: SearchForPackageOnDisk took   1.901s, but failed to resolve JW_FlameDungeon.
-[2018.07.31-18.58.17:541][163]LogPackageName: SearchForPackageOnDisk took   1.855s, but failed to resolve JW_FlameDungeon.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.17:541][163]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.17:659][163]LogPackageName: SearchForPackageOnDisk took   0.119s, but failed to resolve JW_FlameDungeon.
-[2018.07.31-18.58.17:660][163]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
-[2018.07.31-18.58.17:708][164]LogPackageName: SearchForPackageOnDisk took   0.119s, but failed to resolve JW_FlameDungeon.
-[2018.07.31-18.58.17:708][164]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
-[2018.07.31-18.58.17:715][164]LogDirectoryWatcher: A directory notification failed for '../../../../../../Unreal Projects/test_ue4_rpg/Content/' because it was empty or there was a buffer overflow. Attemping another request...
-[2018.07.31-18.58.17:715][164]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Projects/test_ue4_rpg/Content/' because it was empty or there was a buffer overflow. Attemping another request...
-[2018.07.31-18.58.19:734][170]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.19:734][170]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.19:852][170]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.19:852][170]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.19:852][170]LogPackageName: SearchForPackageOnDisk took   0.117s, but failed to resolve JW_Ice_Mountain.
-[2018.07.31-18.58.19:852][170]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
-[2018.07.31-18.58.19:853][170]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.19:853][170]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.19:946][170]LogPackageName: SearchForPackageOnDisk took   0.103s, but failed to resolve JW_Ice_Mountain.
-[2018.07.31-18.58.19:946][170]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
-[2018.07.31-18.58.19:946][170]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.19:946][170]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.19:946][170]LogPackageName: SearchForPackageOnDisk took   0.094s to resolve S_Survival_CA_Chicken_02.
-[2018.07.31-18.58.20:085][172]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve S_Survival_CA_Chicken_02.
-[2018.07.31-18.58.20:747][173]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.20:747][173]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.20:874][173]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.20:874][173]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.20:874][173]LogPackageName: SearchForPackageOnDisk took   0.128s, but failed to resolve JW_Ice_Mountain.
-[2018.07.31-18.58.20:874][173]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
-[2018.07.31-18.58.20:875][173]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.20:875][173]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.20:973][173]LogPackageName: SearchForPackageOnDisk took   0.139s, but failed to resolve JW_Ice_Mountain.
-[2018.07.31-18.58.20:973][173]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
-[2018.07.31-18.58.20:973][173]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.07.31-18.58.20:973][173]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.07.31-18.58.20:973][173]LogPackageName: SearchForPackageOnDisk took   0.097s, but failed to resolve Env_ALL_Artifacts.
-[2018.07.31-18.58.20:973][173]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
-[2018.07.31-18.58.21:081][175]LogPackageName: SearchForPackageOnDisk took   0.092s, but failed to resolve Env_ALL_Artifacts.
-[2018.07.31-18.58.21:081][175]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
-[2018.07.31-19.03.52:802][983]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2018.07.31-19.03.53:328][984]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.testue4rpg
-[2018.07.31-19.03.53:328][984]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
-[2018.07.31-19.03.53:328][984]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
-[2018.07.31-19.03.53:328][984]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
-[2018.07.31-19.03.53:328][984]LogTemp: BranchPath = DESKTOP-359PM8M/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-359PM8M/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
-[2018.07.31-19.03.53:328][984]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kira\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2018.07.31-19.04.37:563][167]LogSlate: Window 'Project Settings' being destroyed
-[2018.07.31-19.04.37:567][167]LogSlate: Window 'Project Settings' being destroyed
-[2018.07.31-19.05.08:445][466]LogSlate: Window 'Editor Preferences' being destroyed
-[2018.07.31-19.05.08:447][466]LogSlate: Window 'Editor Preferences' being destroyed
-[2018.07.31-19.05.44:583][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:583][609]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
-[2018.07.31-19.05.44:583][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:583][609]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: URL: C:\Users\Kira\AppData\Local/Programs/Git/cmd/git.exe version
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: URL: C:\Users\Kira\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
-[2018.07.31-19.05.44:591][609]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
-[2018.07.31-19.08.27:620][258]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
-[2018.07.31-19.08.45:879][876]SourceControl: Source control is disabled
-[2018.07.31-19.08.45:879][876]LogSlate: Window 'Source Control Login' being destroyed
-[2018.07.31-19.08.47:377][ 38]LogSlate: Window 'Editor Preferences' being destroyed
-[2018.07.31-19.08.47:380][ 38]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.03-16.18.02:287][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.03-16.18.02:287][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.03-16.18.02:296][  0]LogHAL: Display: Platform has ~ 8 GB [8523440128 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.03-16.18.02:296][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.03-16.18.02:296][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.03-16.18.02:296][  0]LogInit: Computer: DESKTOP-359PM8M
+[2018.08.03-16.18.02:296][  0]LogInit: User: Kira
+[2018.08.03-16.18.02:296][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.03-16.18.02:296][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2018.08.03-16.18.02:296][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.08.03-16.18.02:296][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.03-16.18.02:296][  0]LogMemory: Process Physical Memory: 100.20 MB used, 100.20 MB peak
+[2018.08.03-16.18.02:296][  0]LogMemory: Process Virtual Memory: 84.05 MB used, 84.05 MB peak
+[2018.08.03-16.18.02:296][  0]LogMemory: Physical Memory: 6438.07 MB used,  1690.51 MB free, 8128.59 MB total
+[2018.08.03-16.18.02:296][  0]LogMemory: Virtual Memory: 4619.21 MB used,  1690.51 MB free, 134217728.00 MB total
+[2018.08.03-16.18.02:309][  0]LogInit: Using OS detected language (ru-RU).
+[2018.08.03-16.18.02:309][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.08.03-16.18.02:310][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.08.03-16.18.02:311][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.08.03-16.18.02:311][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.03-16.18.02:339][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.03-16.18.02:339][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.03-16.18.02:475][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.03-16.18.02:475][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.03-16.18.02:524][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.08.03-16.18.02:524][  0]LogD3D11RHI:       4018/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.03-16.18.02:526][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.03-16.18.02:526][  0]LogD3D11RHI:       0/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.03-16.18.02:526][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.03-16.18.02:532][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.03-16.18.02:532][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.03-16.18.02:532][  0]LogWindows: EnumDisplayDevices:
+[2018.08.03-16.18.02:532][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2018.08.03-16.18.02:532][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.03-16.18.02:532][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.03-16.18.02:532][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.03-16.18.02:532][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.08.03-16.18.02:532][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.08.03-16.18.02:532][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.08.03-16.18.02:532][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.08.03-16.18.02:532][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.08.03-16.18.02:560][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.03-16.18.02:582][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.03-16.18.02:628][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal Projects/test_ue4_rpg/Intermediate/Shaders/WorkingDirectory/9792/).
+[2018.08.03-16.18.02:628][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kira/AppData/Local/Temp/UnrealShaderWorkingDir/1331FFB6412FE0200AF20992A6D821BE/'.
+[2018.08.03-16.18.02:852][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.03-16.18.02:864][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.03-16.18.02:876][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.03-16.18.02:888][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.03-16.18.02:901][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.03-16.18.02:914][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.03-16.18.02:926][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.03-16.18.02:938][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.03-16.18.02:944][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:031][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.03-16.18.03:032][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.03-16.18.03:090][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.03-16.18.03:090][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.03-16.18.03:114][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.03-16.18.03:114][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.03-16.18.03:127][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.03-16.18.03:140][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.03-16.18.03:153][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.03-16.18.03:165][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.03-16.18.03:174][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.03-16.18.03:174][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.03-16.18.03:212][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.03-16.18.03:212][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.03-16.18.03:212][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.03-16.18.03:896][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.03-16.18.03:954][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.03-16.18.03:954][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.03-16.18.03:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/test_ue4_rpg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.03-16.18.03:954][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.03-16.18.03:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/test_ue4_rpg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.03-16.18.03:954][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.03-16.18.03:968][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.03-16.18.03:980][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.03-16.18.03:980][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.03-16.18.03:980][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.03-16.18.03:999][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.03-16.18.04:001][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.03-16.18.04:001][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.03-16.18.04:073][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.08.03-16.18.04:370][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.03-16.18.04:488][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.03-16.18.04:490][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.03-16.18.04:490][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.03-16.18.04:490][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.03-16.18.04:490][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.03-16.18.04:509][  0]LogNetVersion: test_ue4_rpg 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3171448258)
+[2018.08.03-16.18.05:076][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.101005 seconds
+[2018.08.03-16.18.05:083][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.03-16.18.05:083][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.03-16.18.05:083][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.03-16.18.05:889][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.03-16.18.05:901][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.03-16.18.06:132][  0]SourceControl: Source control is disabled
+[2018.08.03-16.18.06:132][  0]SourceControl: Source control is disabled
+[2018.08.03-16.18.06:133][  0]SourceControl: Source control is disabled
+[2018.08.03-16.18.06:133][  0]SourceControl: Source control is disabled
+[2018.08.03-16.18.06:279][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.03-16.18.06:331][  0]LogOcInput: OculusInput pre-init called
+[2018.08.03-16.18.06:394][  0]LogEngine: Initializing Engine...
+[2018.08.03-16.18.06:394][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.03-16.18.06:396][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.03-16.18.06:396][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.03-16.18.06:396][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.03-16.18.06:396][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.03-16.18.06:605][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.03-16.18.06:615][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.03-16.18.06:678][  0]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-16.18.06:689][  0]LogInit: FAudioDevice initialized.
+[2018.08.03-16.18.06:689][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.03-16.18.06:757][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.03-16.18.06:758][  0]LogInit: Texture streaming: Enabled
+[2018.08.03-16.18.06:768][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.03-16.18.06:798][  0]LogInit: Transaction tracking system initialized
+[2018.08.03-16.18.06:811][  0]BlueprintLog: New page: Editor Load
+[2018.08.03-16.18.06:860][  0]LocalizationService: Localization service is disabled
+[2018.08.03-16.18.07:262][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.03-16.18.07:262][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.03-16.18.07:262][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.03-16.18.07:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.03-16.18.07:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.03-16.18.07:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.03-16.18.07:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.03-16.18.07:349][  0]SourceControl: Source control is disabled
+[2018.08.03-16.18.07:647][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-16.18.07:648][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.03-16.18.12:054][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/' took 4.79s
+[2018.08.03-16.18.13:854][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.08.03-16.18.13:854][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-16.18.13:921][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-16.18.17:937][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.08.03-16.18.17:938][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-16.18.20:566][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.03-16.18.20:567][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.03-16.18.20:568][  0]LightingResults: New page: Lighting Build
+[2018.08.03-16.18.20:570][  0]MapCheck: New page: Map Check
+[2018.08.03-16.18.20:570][  0]LightingResults: New page: Lighting Build
+[2018.08.03-16.18.22:665][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.03-16.18.22:807][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.03-16.18.22:841][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.03-16.18.22:895][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53,451ms to complete.
+[2018.08.03-16.18.22:895][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.328
+[2018.08.03-16.18.23:156][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-16.18.23:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-16.18.23:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-16.18.23:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-16.18.23:232][  0]LogCollectionManager: Loaded 0 collections in 0.001274 seconds
+[2018.08.03-16.18.23:365][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Saved/Collections/' took 0.01s
+[2018.08.03-16.18.23:365][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/Developers/Kira/Collections/' took 0.01s
+[2018.08.03-16.18.23:365][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/Collections/' took 0.01s
+[2018.08.03-16.18.23:365][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.03-16.18.23:405][  0]LogContentBrowser: Native class hierarchy populated in 0.0295 seconds. Added 2572 classes and 603 folders.
+[2018.08.03-16.18.23:534][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.03-16.18.24:091][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.03-16.18.24:138][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.03-16.18.24:465][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.03-16.18.24:501][  0]LogSlate: Took 0.011207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.03-16.18.24:659][  0]LogRenderer: Reallocating scene render targets to support 1300x924 Format 10 NumSamples 1 (Frame:1).
+[2018.08.03-16.18.25:037][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.03-16.18.25:037][  0]LogLoad: (Engine Initialization) Total time: 23.90 seconds
+[2018.08.03-16.18.25:037][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.03-16.18.25:103][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.03-16.18.25:129][  0]LogSlate: Took 0.015014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.03-16.18.25:382][  4]LogAssetRegistry: Asset discovery search completed in 21.3318 seconds
+[2018.08.03-16.18.25:384][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.03-16.18.25:384][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.08.03-16.18.26:710][  8]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.03-16.18.29:233][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.18.38:245][ 43]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Eve_BS.Eve_BS
+[2018.08.03-16.18.38:345][ 43]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.03-16.18.38:915][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.03-16.18.38:928][ 43]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.03-16.18.39:181][ 43]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.03-16.18.40:097][ 43]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.08.03-16.18.40:121][ 43]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.03-16.18.44:077][439]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.18.44:078][439]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.18.44:086][439]LogBlueprint: Warning: [Compiler Eve_BP] [0042,94] Compile of Eve_BP successful, but with 2 Warning(s) [in 10 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.18.44:099][439]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP
+[2018.08.03-16.18.44:138][439]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.03-16.18.44:899][439]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.08.03-16.18.45:882][439]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.03-16.18.46:297][439]LogSlate: Took 0.015598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.03-16.18.46:499][439]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.03-16.18.46:537][440]LogSlate: Took 0.011703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.03-16.20.45:431][954]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.20.45:440][954]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.20.45:440][954]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.20.45:932][954]LogBlueprint: Warning: [Compiler Eve_BP] [0164,79] Compile of Eve_BP successful, but with 2 Warning(s) [in 500 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.20.46:796][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BP" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset" SILENT=true
+[2018.08.03-16.20.47:032][ 13]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BP6519318745A093D9E5687083F8017006.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2018.08.03-16.23.56:804][652]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.23.56:815][652]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.23.56:815][652]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.23.56:956][652]LogBlueprint: Warning: [Compiler Eve_BP] [0355,81] Compile of Eve_BP successful, but with 2 Warning(s) [in 151 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.24.54:622][418]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.24.54:633][418]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.24.54:633][418]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.24.54:770][418]LogBlueprint: Warning: [Compiler Eve_BP] [0413,63] Compile of Eve_BP successful, but with 2 Warning(s) [in 147 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.26.09:692][259]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.26.09:705][259]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.26.09:705][259]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.26.09:843][259]LogBlueprint: Warning: [Compiler Eve_BP] [0488,70] Compile of Eve_BP successful, but with 2 Warning(s) [in 150 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.26.11:134][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BP" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset" SILENT=true
+[2018.08.03-16.26.11:197][382]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BPC20F616F42828251D852708BD60880F2.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2018.08.03-16.26.42:854][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BS" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset" SILENT=true
+[2018.08.03-16.26.42:868][514]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BS925AE13A463652917A4E72AA5A1EB044.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2018.08.03-16.26.52:212][467]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.26.52:225][467]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.26.52:225][467]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.26.52:362][467]LogBlueprint: Warning: [Compiler Eve_BP] [0531,22] Compile of Eve_BP successful, but with 2 Warning(s) [in 150 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.26.52:868][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BP" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset" SILENT=true
+[2018.08.03-16.26.52:922][512]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BP8AAB1C4A4200BF5D56755988FF7916D5.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2018.08.03-16.26.54:895][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BS" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset" SILENT=true
+[2018.08.03-16.26.54:900][704]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BS2E7608114BED2DF2CEE20DAA54622722.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BS.uasset'
+[2018.08.03-16.27.14:010][820]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.27.14:023][820]LogBlueprint: Warning: [Compiler Eve_BP] Idle to Walking/Running  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.27.14:023][820]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.27.14:162][820]LogBlueprint: Warning: [Compiler Eve_BP] [0553,02] Compile of Eve_BP successful, but with 2 Warning(s) [in 152 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.28.25:481][596]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.030
+[2018.08.03-16.28.25:494][596]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Eve_BP] ([1] browsable assets)...
+[2018.08.03-16.28.25:538][596]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP]
+[2018.08.03-16.28.25:538][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Eve_BP]
+[2018.08.03-16.28.25:575][596]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BP_Auto14371CDA240C4FAD415CFE7AF78B8670F.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Eve_BP_Auto1.uasset'
+[2018.08.03-16.28.25:576][596]LogFileHelpers: Auto-saving content packages took 0.093
+[2018.08.03-16.29.09:559][461]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.29.09:573][461]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.29.09:733][461]LogBlueprint: Warning: [Compiler Eve_BP] [0668,59] Compile of Eve_BP successful, but with 1 Warning(s) [in 173 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.29.15:774][ 75]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.29.15:787][ 75]LogBlueprint: Warning: [Compiler Eve_BP] Walking/Running to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.03-16.29.15:925][ 75]LogBlueprint: Warning: [Compiler Eve_BP] [0674,78] Compile of Eve_BP successful, but with 1 Warning(s) [in 151 ms] (/Game/ThirdPersonBP/Blueprints/Character/Eve_BP.Eve_BP)
+[2018.08.03-16.29.16:842][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BP" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset" SILENT=true
+[2018.08.03-16.29.16:875][137]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BP556EBF2545AFFA3362E9689F2ED6F31F.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2018.08.03-16.29.50:148][297]BlueprintLog: New page: Compile Eve_BP
+[2018.08.03-16.29.51:238][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Character/Eve_BP" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset" SILENT=true
+[2018.08.03-16.29.51:272][396]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Eve_BPE835D4D94559DC3D078F5AB22B6E8E43.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Character/Eve_BP.uasset'
+[2018.08.03-16.30.45:068][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.03-16.30.45:911][ 42]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.08.03-16.30.47:171][175]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.08.03-16.30.47:416][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-16.30.53:090][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-16.30.54:583][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.08.03-16.31.08:199][237]LogRenderer: Reallocating scene render targets to support 1332x924 Format 10 NumSamples 1 (Frame:1).
+[2018.08.03-16.31.12:387][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-16.31.20:828][324]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Eve_by_J__Gonzales_Skeleton, removing AnimBP from actor.
+[2018.08.03-16.31.20:836][324]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Eve_by_J__Gonzales_Skeleton, removing AnimBP from actor.
+[2018.08.03-16.31.20:837][324]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Eve_by_J__Gonzales_Skeleton, removing AnimBP from actor.
+[2018.08.03-16.31.20:837][324]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Eve_by_J__Gonzales_Skeleton, removing AnimBP from actor.
+[2018.08.03-16.31.57:484][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.32.20:013][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.32.39:977][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.32.40:064][389]Cmd: MODE GRID=0
+[2018.08.03-16.32.59:445][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.32.59:524][311]Cmd: MODE ROTGRID=0
+[2018.08.03-16.33.07:517][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.33.07:637][ 29]Cmd: MODE SCALEGRID=0
+[2018.08.03-16.33.13:678][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.33.13:799][628]Cmd: MODE ROTGRID=1
+[2018.08.03-16.33.15:591][820]Cmd: MODE SCALEGRID=1
+[2018.08.03-16.33.18:028][ 25]Cmd: MODE GRID=1
+[2018.08.03-16.33.19:297][138]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.03-16.33.20:135][145]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonCharacter3EF5F70141A8620BBC24CD89E95AF91A.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.03-16.33.20:900][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-16.33.30:135][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-16.33.39:014][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.03-16.33.42:759][477]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.08.03-16.33.43:659][502]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonCharacter509EEDE5482EE03D34CA42B5AA869557.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.03-16.33.58:238][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.33.58:387][786]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonCharacterD36234494BEA6BAF06C9129F2A33BDA4.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.08.03-16.33.59:295][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.34.00:194][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.34.00:302][994]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.03-16.34.00:351][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.03-16.34.00:359][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.03-16.34.00:452][994]PIE: New page: PIE session: ThirdPersonExampleMap (3 авг. 2018 г., 22:34:00)
+[2018.08.03-16.34.00:468][994]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.03-16.34.00:516][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048275s)
+[2018.08.03-16.34.00:518][994]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.03-16.34.00:518][994]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2018.08.03-16.34.00:518][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050203s)
+[2018.08.03-16.34.00:594][994]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.03-16.34.00:601][994]LogInit: FAudioDevice initialized.
+[2018.08.03-16.34.00:668][994]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.03-16.34.00:689][994]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.03-19.34.00
+[2018.08.03-16.34.00:697][994]LogWorld: Bringing up level for play took: 0.028427
+[2018.08.03-16.34.00:824][994]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.08.03-16.34.00:896][994]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,24
+[2018.08.03-16.34.00:896][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.03-16.34.54:650][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.03-16.34.54:710][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-16.34.54:767][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.03-16.34.54:767][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.03-16.34.54:820][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.03-16.34.54:857][411]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.08.03-16.35.29:895][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.35.30:464][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.03-16.35.31:602][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
