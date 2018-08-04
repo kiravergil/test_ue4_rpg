@@ -839,3 +839,568 @@ LogInit: Object subsystem initialized
 [2018.08.04-07.14.25:924][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
 [2018.08.04-07.14.25:977][931]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_BuiltData_04D18224443557398CC3F1989E7C0B36.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto3.uasset'
 [2018.08.04-07.14.25:979][931]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.08.04-07.20.32:614][151]LogEditorFactories: Performing atomic reimport of [D:/RPGAssets/HUDAssets/ActionBarEmpty.png]
+[2018.08.04-07.20.32:614][151]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/RPGAssets/HUDAssets/ActionBarEmpty.png)
+[2018.08.04-07.20.32:620][151]LogTexture: Display: Building textures: ActionBarEmpty (BGRA8, 65X65)
+[2018.08.04-07.20.32:626][151]LogEditorFactories: -- imported successfully
+[2018.08.04-07.20.32:656][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\BagBG.png)
+[2018.08.04-07.20.32:663][151]LogTexture: Display: Building textures: BagBG (BGRA8, 329X235)
+[2018.08.04-07.20.32:685][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\BagIcon.png)
+[2018.08.04-07.20.32:689][151]LogTexture: Display: Building textures: BagIcon (BGRA8, 63X56)
+[2018.08.04-07.20.32:701][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\BarsBack.png)
+[2018.08.04-07.20.32:705][151]LogTexture: Display: Building textures: BarsBack (BGRA8, 237X73)
+[2018.08.04-07.20.32:717][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Close_Normal.png)
+[2018.08.04-07.20.32:720][151]LogTexture: Display: Building textures: Close_Normal (AutoDXT, 40X40)
+[2018.08.04-07.20.32:731][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Close_Rollover.png)
+[2018.08.04-07.20.32:734][151]LogTexture: Display: Building textures: Close_Rollover (AutoDXT, 40X40)
+[2018.08.04-07.20.32:748][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Coins.png)
+[2018.08.04-07.20.32:751][151]LogTexture: Display: Building textures: Coins (AutoDXT, 24X24)
+[2018.08.04-07.20.32:768][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Health_Fill.png)
+[2018.08.04-07.20.32:771][151]LogTexture: Display: Building textures: Health_Fill (BGRA8, 208X26)
+[2018.08.04-07.20.32:785][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Health_NoFill.png)
+[2018.08.04-07.20.32:787][151]LogTexture: Display: Building textures: Health_NoFill (BGRA8, 202X19)
+[2018.08.04-07.20.32:799][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Icon1Fill.png)
+[2018.08.04-07.20.32:802][151]LogTexture: Display: Building textures: Icon1Fill (BGRA8, 61X61)
+[2018.08.04-07.20.32:813][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Icon1NoFill.png)
+[2018.08.04-07.20.32:816][151]LogTexture: Display: Building textures: Icon1NoFill (BGRA8, 61X61)
+[2018.08.04-07.20.32:828][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Icon2Fill.png)
+[2018.08.04-07.20.32:831][151]LogTexture: Display: Building textures: Icon2Fill (BGRA8, 61X61)
+[2018.08.04-07.20.32:843][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Icon2NoFill.png)
+[2018.08.04-07.20.32:846][151]LogTexture: Display: Building textures: Icon2NoFill (BGRA8, 61X61)
+[2018.08.04-07.20.32:857][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\LevelPopup.png)
+[2018.08.04-07.20.32:860][151]LogTexture: Display: Building textures: LevelPopup (BGRA8, 495X55)
+[2018.08.04-07.20.32:873][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\LootBG.png)
+[2018.08.04-07.20.32:877][151]LogTexture: Display: Building textures: LootBG (BGRA8, 380X491)
+[2018.08.04-07.20.32:898][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Magic Wood copy 3.png)
+[2018.08.04-07.20.32:900][151]LogTexture: Display: Building textures: Magic_Wood_copy_3 (BGRA8, 80X14)
+[2018.08.04-07.20.32:912][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Mana_Fill.png)
+[2018.08.04-07.20.32:915][151]LogTexture: Display: Building textures: Mana_Fill (BGRA8, 210X26)
+[2018.08.04-07.20.32:927][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Mana_NoFill.png)
+[2018.08.04-07.20.32:930][151]LogTexture: Display: Building textures: Mana_NoFill (BGRA8, 202X19)
+[2018.08.04-07.20.32:942][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\MeleeIcon1Fill.png)
+[2018.08.04-07.20.32:944][151]LogTexture: Display: Building textures: MeleeIcon1Fill (BGRA8, 61X61)
+[2018.08.04-07.20.32:956][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\MeleeIcon1NoFill.png)
+[2018.08.04-07.20.32:958][151]LogTexture: Display: Building textures: MeleeIcon1NoFill (BGRA8, 61X61)
+[2018.08.04-07.20.32:970][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\PlayerLevelBack.png)
+[2018.08.04-07.20.32:972][151]LogTexture: Display: Building textures: PlayerLevelBack (BGRA8, 43X50)
+[2018.08.04-07.20.32:983][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\PlayerPic.png)
+[2018.08.04-07.20.32:986][151]LogTexture: Display: Building textures: PlayerPic (BGRA8, 117X117)
+[2018.08.04-07.20.32:998][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\PlayerPicBack.png)
+[2018.08.04-07.20.33:001][151]LogTexture: Display: Building textures: PlayerPicBack (BGRA8, 133X140)
+[2018.08.04-07.20.33:016][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\QuestBG.png)
+[2018.08.04-07.20.33:018][151]LogTexture: Display: Building textures: QuestBG (BGRA8, 213X24)
+[2018.08.04-07.20.33:068][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\RPGHUD.psd)
+[2018.08.04-07.20.33:119][151]LogTexture: Display: Building textures: RPGHUD (AutoDXT, 1920X1080)
+[2018.08.04-07.20.33:441][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\RPGSS2.png)
+[2018.08.04-07.20.33:492][151]LogTexture: Display: Building textures: RPGSS2 (AutoDXT, 1920X1080)
+[2018.08.04-07.20.33:912][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Select.png)
+[2018.08.04-07.20.33:915][151]LogTexture: Display: Building textures: Select (BGRA8, 199X114)
+[2018.08.04-07.20.33:924][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\Select_Hover.png)
+[2018.08.04-07.20.33:927][151]LogTexture: Display: Building textures: Select_Hover (BGRA8, 199X114)
+[2018.08.04-07.20.33:936][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\ShopBG.png)
+[2018.08.04-07.20.33:941][151]LogTexture: Display: Building textures: ShopBG (BGRA8, 634X286)
+[2018.08.04-07.20.33:958][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\InventoryIcons/DoorKey.png)
+[2018.08.04-07.20.33:964][151]LogTexture: Display: Building textures: DoorKey (AutoDXT, 512X512)
+[2018.08.04-07.20.34:003][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\InventoryIcons/LootBox.png)
+[2018.08.04-07.20.34:007][151]LogTexture: Display: Building textures: LootBox (AutoDXT, 512X512)
+[2018.08.04-07.20.34:044][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\RPGAssets\HUDAssets\InventoryIcons/WoodLogs.png)
+[2018.08.04-07.20.34:050][151]LogTexture: Display: Building textures: WoodLogs (AutoDXT, 512X512)
+[2018.08.04-07.21.25:157][131]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.04-07.21.39:988][187]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.04-07.21.43:983][187]LogSlate: Window 'Message' being destroyed
+[2018.08.04-07.22.28:008][192]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.04-07.22.32:767][448]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.04-07.22.56:620][238]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.22.57:734][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.22.57:751][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.22.57:751][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.22.57:751][311]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:22:57)
+[2018.08.04-07.22.57:751][311]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.22.57:762][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011254s)
+[2018.08.04-07.22.57:763][311]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.22.57:763][311]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2018.08.04-07.22.57:764][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012620s)
+[2018.08.04-07.22.57:800][311]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.22.57:809][311]LogInit: FAudioDevice initialized.
+[2018.08.04-07.22.57:840][311]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.22.57:843][311]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.22.57
+[2018.08.04-07.22.57:843][311]LogWorld: Bringing up level for play took: 0.002712
+[2018.08.04-07.22.57:856][311]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,804
+[2018.08.04-07.22.57:856][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.23.14:132][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.23.14:132][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.23.14:167][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.23.14:168][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.23.14:198][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.23.14:234][192]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.08.04-07.23.55:341][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-07.24.22:099][528]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.24.23:166][597]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.24.23:183][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.24.23:183][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.24.23:183][597]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:24:23)
+[2018.08.04-07.24.23:183][597]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.24.23:191][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008139s)
+[2018.08.04-07.24.23:192][597]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.24.23:192][597]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2018.08.04-07.24.23:193][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009601s)
+[2018.08.04-07.24.23:229][597]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.24.23:236][597]LogInit: FAudioDevice initialized.
+[2018.08.04-07.24.23:270][597]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.24.23:272][597]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.24.23
+[2018.08.04-07.24.23:273][597]LogWorld: Bringing up level for play took: 0.002301
+[2018.08.04-07.24.23:284][597]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,233
+[2018.08.04-07.24.23:285][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.24.46:236][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.24.46:236][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.24.46:268][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.24.46:268][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.24.46:299][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.24.46:344][314]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.08.04-07.25.15:214][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.049
+[2018.08.04-07.25.15:216][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2018.08.04-07.25.15:216][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
+[2018.08.04-07.25.15:243][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUD_Auto4E18E90BA416866F8714A209562688D43.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto4.uasset'
+[2018.08.04-07.25.15:251][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/ActionBarEmpty] ([1] browsable assets)...
+[2018.08.04-07.25.15:253][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/ActionBarEmpty.ActionBarEmpty]
+[2018.08.04-07.25.15:253][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/ActionBarEmpty]
+[2018.08.04-07.25.15:259][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ActionBarEmpty_Auto4BDE1ECB34476459AFA9B72A824820776.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/ActionBarEmpty_Auto4.uasset'
+[2018.08.04-07.25.15:261][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/BagBG] ([1] browsable assets)...
+[2018.08.04-07.25.15:267][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/BagBG.BagBG]
+[2018.08.04-07.25.15:267][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/BagBG]
+[2018.08.04-07.25.15:276][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/BagBG_Auto4891E35E148067463E328FAB286CD3643.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/BagBG_Auto4.uasset'
+[2018.08.04-07.25.15:278][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/BagIcon] ([1] browsable assets)...
+[2018.08.04-07.25.15:279][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/BagIcon.BagIcon]
+[2018.08.04-07.25.15:279][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/BagIcon]
+[2018.08.04-07.25.15:282][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/BagIcon_Auto4119C697640665CD9DB6BB3B6EF587563.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/BagIcon_Auto4.uasset'
+[2018.08.04-07.25.15:284][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/BarsBack] ([1] browsable assets)...
+[2018.08.04-07.25.15:287][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/BarsBack.BarsBack]
+[2018.08.04-07.25.15:287][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/BarsBack]
+[2018.08.04-07.25.15:291][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/BarsBack_Auto448400A8143BEDE8B0663E3B231A22BEF.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/BarsBack_Auto4.uasset'
+[2018.08.04-07.25.15:293][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Normal] ([1] browsable assets)...
+[2018.08.04-07.25.15:293][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Normal.Close_Normal]
+[2018.08.04-07.25.15:293][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Normal]
+[2018.08.04-07.25.15:297][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Close_Normal_Auto44E9F46544A740E974EEE39AFCF06322E.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Normal_Auto4.uasset'
+[2018.08.04-07.25.15:299][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Rollover] ([1] browsable assets)...
+[2018.08.04-07.25.15:299][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Rollover.Close_Rollover]
+[2018.08.04-07.25.15:299][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Rollover]
+[2018.08.04-07.25.15:304][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Close_Rollover_Auto4745990E14A669122C4A63DA97A86C9BD.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Close_Rollover_Auto4.uasset'
+[2018.08.04-07.25.15:306][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Coins] ([1] browsable assets)...
+[2018.08.04-07.25.15:307][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Coins.Coins]
+[2018.08.04-07.25.15:307][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Coins]
+[2018.08.04-07.25.15:311][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Coins_Auto4193291BE428EED592C3C41A906C81E87.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Coins_Auto4.uasset'
+[2018.08.04-07.25.15:313][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Health_Fill] ([1] browsable assets)...
+[2018.08.04-07.25.15:314][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Health_Fill.Health_Fill]
+[2018.08.04-07.25.15:314][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Health_Fill]
+[2018.08.04-07.25.15:318][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Health_Fill_Auto4A12D8CA3470DCFC1E6233696976687AE.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Health_Fill_Auto4.uasset'
+[2018.08.04-07.25.15:319][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Health_NoFill] ([1] browsable assets)...
+[2018.08.04-07.25.15:320][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Health_NoFill.Health_NoFill]
+[2018.08.04-07.25.15:320][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Health_NoFill]
+[2018.08.04-07.25.15:327][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Health_NoFill_Auto4A3005A904485F1C7916250A790B0CE00.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Health_NoFill_Auto4.uasset'
+[2018.08.04-07.25.15:330][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill] ([1] browsable assets)...
+[2018.08.04-07.25.15:331][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill.Icon1Fill]
+[2018.08.04-07.25.15:331][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill]
+[2018.08.04-07.25.15:336][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Icon1Fill_Auto49388A25C462C8E67E75B98AE7EFC72D6.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1Fill_Auto4.uasset'
+[2018.08.04-07.25.15:338][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill] ([1] browsable assets)...
+[2018.08.04-07.25.15:339][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill.Icon1NoFill]
+[2018.08.04-07.25.15:339][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill]
+[2018.08.04-07.25.15:343][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Icon1NoFill_Auto41B7DF75245A3DD71AE816088A3169347.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon1NoFill_Auto4.uasset'
+[2018.08.04-07.25.15:346][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill] ([1] browsable assets)...
+[2018.08.04-07.25.15:347][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill.Icon2Fill]
+[2018.08.04-07.25.15:347][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill]
+[2018.08.04-07.25.15:351][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Icon2Fill_Auto406B186C349C986CAD98FBFB65DCCA069.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2Fill_Auto4.uasset'
+[2018.08.04-07.25.15:353][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill] ([1] browsable assets)...
+[2018.08.04-07.25.15:354][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill.Icon2NoFill]
+[2018.08.04-07.25.15:354][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill]
+[2018.08.04-07.25.15:358][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Icon2NoFill_Auto42F61416C4DE2CECB006429B4809DFD96.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Icon2NoFill_Auto4.uasset'
+[2018.08.04-07.25.15:360][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/LevelPopup] ([1] browsable assets)...
+[2018.08.04-07.25.15:361][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/LevelPopup.LevelPopup]
+[2018.08.04-07.25.15:361][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/LevelPopup]
+[2018.08.04-07.25.15:365][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/LevelPopup_Auto40E7F09454169C5E0D3A641A2C0A000EE.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/LevelPopup_Auto4.uasset'
+[2018.08.04-07.25.15:367][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/LootBG] ([1] browsable assets)...
+[2018.08.04-07.25.15:373][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/LootBG.LootBG]
+[2018.08.04-07.25.15:373][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/LootBG]
+[2018.08.04-07.25.15:379][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/LootBG_Auto4F129D99746C4D171687913AE01E7F1DD.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/LootBG_Auto4.uasset'
+[2018.08.04-07.25.15:381][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Magic_Wood_copy_3] ([1] browsable assets)...
+[2018.08.04-07.25.15:382][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Magic_Wood_copy_3.Magic_Wood_copy_3]
+[2018.08.04-07.25.15:382][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Magic_Wood_copy_3]
+[2018.08.04-07.25.15:386][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Magic_Wood_copy_3_Auto44DCA5FAA473612906AEC40BD49D73807.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Magic_Wood_copy_3_Auto4.uasset'
+[2018.08.04-07.25.15:388][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_Fill] ([1] browsable assets)...
+[2018.08.04-07.25.15:389][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_Fill.Mana_Fill]
+[2018.08.04-07.25.15:389][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_Fill]
+[2018.08.04-07.25.15:394][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Mana_Fill_Auto444460ADA48B58AA78D927C81B2073B53.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_Fill_Auto4.uasset'
+[2018.08.04-07.25.15:396][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_NoFill] ([1] browsable assets)...
+[2018.08.04-07.25.15:397][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_NoFill.Mana_NoFill]
+[2018.08.04-07.25.15:397][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_NoFill]
+[2018.08.04-07.25.15:401][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Mana_NoFill_Auto4AE6BC8504FC4BC85AF59478EC4E32AA5.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Mana_NoFill_Auto4.uasset'
+[2018.08.04-07.25.15:404][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill] ([1] browsable assets)...
+[2018.08.04-07.25.15:405][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill.MeleeIcon1Fill]
+[2018.08.04-07.25.15:405][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill]
+[2018.08.04-07.25.15:410][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeIcon1Fill_Auto4E6D76E1347FA583A8FC8C1BDC9142DA9.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1Fill_Auto4.uasset'
+[2018.08.04-07.25.15:412][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill] ([1] browsable assets)...
+[2018.08.04-07.25.15:413][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill.MeleeIcon1NoFill]
+[2018.08.04-07.25.15:413][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill]
+[2018.08.04-07.25.15:418][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeIcon1NoFill_Auto4AC39B1744489CF73599D7DA486C739BC.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/MeleeIcon1NoFill_Auto4.uasset'
+[2018.08.04-07.25.15:421][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerLevelBack] ([1] browsable assets)...
+[2018.08.04-07.25.15:421][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerLevelBack.PlayerLevelBack]
+[2018.08.04-07.25.15:421][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerLevelBack]
+[2018.08.04-07.25.15:426][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/PlayerLevelBack_Auto4488804C54FA3940C785C99B071E6EDD2.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerLevelBack_Auto4.uasset'
+[2018.08.04-07.25.15:428][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPic] ([1] browsable assets)...
+[2018.08.04-07.25.15:430][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPic.PlayerPic]
+[2018.08.04-07.25.15:430][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPic]
+[2018.08.04-07.25.15:436][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/PlayerPic_Auto47148BF8E41EA697EBC316BB2EE510E1D.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPic_Auto4.uasset'
+[2018.08.04-07.25.15:438][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPicBack] ([1] browsable assets)...
+[2018.08.04-07.25.15:440][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPicBack.PlayerPicBack]
+[2018.08.04-07.25.15:440][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPicBack]
+[2018.08.04-07.25.15:446][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/PlayerPicBack_Auto4996F5EC440166331CDAF2592804971B6.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/PlayerPicBack_Auto4.uasset'
+[2018.08.04-07.25.15:448][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/QuestBG] ([1] browsable assets)...
+[2018.08.04-07.25.15:448][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/QuestBG.QuestBG]
+[2018.08.04-07.25.15:448][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/QuestBG]
+[2018.08.04-07.25.15:452][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/QuestBG_Auto4272EAC334485BD3E3217C0B985DE10FA.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/QuestBG_Auto4.uasset'
+[2018.08.04-07.25.15:454][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/RPGHUD] ([1] browsable assets)...
+[2018.08.04-07.25.15:459][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/RPGHUD.RPGHUD]
+[2018.08.04-07.25.15:459][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/RPGHUD]
+[2018.08.04-07.25.15:470][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/RPGHUD_Auto492D523054FA55516A0396AB8AA0FE95A.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/RPGHUD_Auto4.uasset'
+[2018.08.04-07.25.15:472][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/RPGSS2] ([1] browsable assets)...
+[2018.08.04-07.25.15:477][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/RPGSS2.RPGSS2]
+[2018.08.04-07.25.15:477][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/RPGSS2]
+[2018.08.04-07.25.15:502][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/RPGSS2_Auto499AF88644DB1915430BACAA3F3AE1B68.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/RPGSS2_Auto4.uasset'
+[2018.08.04-07.25.15:507][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Select] ([1] browsable assets)...
+[2018.08.04-07.25.15:510][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Select.Select]
+[2018.08.04-07.25.15:510][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Select]
+[2018.08.04-07.25.15:515][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Select_Auto4055482EC4A4AAE28B629B885F2799E96.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Select_Auto4.uasset'
+[2018.08.04-07.25.15:517][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Select_Hover] ([1] browsable assets)...
+[2018.08.04-07.25.15:520][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/Select_Hover.Select_Hover]
+[2018.08.04-07.25.15:520][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/Select_Hover]
+[2018.08.04-07.25.15:525][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Select_Hover_Auto419C81B574108E1C83489BDA02E22EFFB.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/Select_Hover_Auto4.uasset'
+[2018.08.04-07.25.15:527][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/ShopBG] ([1] browsable assets)...
+[2018.08.04-07.25.15:531][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/ShopBG.ShopBG]
+[2018.08.04-07.25.15:531][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/ShopBG]
+[2018.08.04-07.25.15:536][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ShopBG_Auto4BC73D835438EE19C4882DFBD8EF39FF8.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/ShopBG_Auto4.uasset'
+[2018.08.04-07.25.15:538][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/DoorKey] ([1] browsable assets)...
+[2018.08.04-07.25.15:546][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/DoorKey.DoorKey]
+[2018.08.04-07.25.15:546][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/DoorKey]
+[2018.08.04-07.25.15:552][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/DoorKey_Auto4CAE2EB634C7E9F6FBCFFC6B10CDA3F88.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/DoorKey_Auto4.uasset'
+[2018.08.04-07.25.15:554][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/LootBox] ([1] browsable assets)...
+[2018.08.04-07.25.15:562][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/LootBox.LootBox]
+[2018.08.04-07.25.15:562][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/LootBox]
+[2018.08.04-07.25.15:578][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/LootBox_Auto413FB48C846662C0F1A9FCFB7F59964F1.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/LootBox_Auto4.uasset'
+[2018.08.04-07.25.15:580][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/WoodLogs] ([1] browsable assets)...
+[2018.08.04-07.25.15:587][553]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/WoodLogs.WoodLogs]
+[2018.08.04-07.25.15:587][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/WoodLogs]
+[2018.08.04-07.25.15:595][553]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/WoodLogs_Auto4BBACC66D41909E5E39CFA88D25B41246.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUDAssets/InventoryIcons/WoodLogs_Auto4.uasset'
+[2018.08.04-07.25.15:596][553]LogFileHelpers: Auto-saving content packages took 0.381
+[2018.08.04-07.25.18:724][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-07.25.30:071][286]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.04-07.25.33:358][370]LogSlate: Window 'Save Asset As' being destroyed
+[2018.08.04-07.28.13:867][954]LogEditorTransaction: Undo Move Widget
+[2018.08.04-07.28.30:186][179]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.28.31:160][240]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.28.31:178][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.31:178][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.28.31:178][240]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:28:31)
+[2018.08.04-07.28.31:178][240]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.28.31:188][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009562s)
+[2018.08.04-07.28.31:189][240]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.28.31:189][240]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2018.08.04-07.28.31:190][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011308s)
+[2018.08.04-07.28.31:226][240]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.28.31:233][240]LogInit: FAudioDevice initialized.
+[2018.08.04-07.28.31:269][240]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.28.31:272][240]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.28.31
+[2018.08.04-07.28.31:273][240]LogWorld: Bringing up level for play took: 0.002893
+[2018.08.04-07.28.31:286][240]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,234
+[2018.08.04-07.28.31:287][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.38:906][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.38:907][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.28.38:938][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.28.38:939][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.38:971][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.28.39:008][107]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.08.04-07.28.41:699][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-07.28.41:807][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.28.41:824][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.41:824][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.28.41:824][442]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:28:41)
+[2018.08.04-07.28.41:824][442]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.28.41:832][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008253s)
+[2018.08.04-07.28.41:833][442]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.28.41:833][442]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2018.08.04-07.28.41:834][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009379s)
+[2018.08.04-07.28.41:868][442]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.28.41:876][442]LogInit: FAudioDevice initialized.
+[2018.08.04-07.28.41:905][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.28.41:908][442]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.28.41
+[2018.08.04-07.28.41:908][442]LogWorld: Bringing up level for play took: 0.002292
+[2018.08.04-07.28.41:922][442]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,869
+[2018.08.04-07.28.41:922][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.44:492][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.44:492][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.28.44:528][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.28.44:529][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.28.44:559][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.28.44:593][751]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.08.04-07.28.49:431][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-07.29.20:016][316]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.29.20:738][338]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.29.20:755][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.20:755][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.29.20:755][338]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:29:20)
+[2018.08.04-07.29.20:756][338]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.29.20:764][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008425s)
+[2018.08.04-07.29.20:765][338]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.29.20:765][338]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2018.08.04-07.29.20:765][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009911s)
+[2018.08.04-07.29.20:799][338]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.29.20:806][338]LogInit: FAudioDevice initialized.
+[2018.08.04-07.29.20:839][338]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.29.20:841][338]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.29.20
+[2018.08.04-07.29.20:842][338]LogWorld: Bringing up level for play took: 0.002403
+[2018.08.04-07.29.20:855][338]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,197
+[2018.08.04-07.29.20:855][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.25:092][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.25:092][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.29.25:125][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.29.25:126][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.25:157][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.29.25:193][708]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.08.04-07.29.25:936][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-07.29.26:044][809]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.29.26:061][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.26:061][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.29.26:061][809]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:29:26)
+[2018.08.04-07.29.26:062][809]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.29.26:070][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008510s)
+[2018.08.04-07.29.26:071][809]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.29.26:071][809]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2018.08.04-07.29.26:071][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009876s)
+[2018.08.04-07.29.26:106][809]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.29.26:113][809]LogInit: FAudioDevice initialized.
+[2018.08.04-07.29.26:143][809]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.29.26:146][809]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.29.26
+[2018.08.04-07.29.26:146][809]LogWorld: Bringing up level for play took: 0.002214
+[2018.08.04-07.29.26:159][809]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,892
+[2018.08.04-07.29.26:160][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.31:840][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.31:840][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.29.31:875][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.29.31:876][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.29.31:906][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.29.31:942][491]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.08.04-07.29.33:437][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-07.30.55:311][140]Cmd: TRANSACTION UNDO
+[2018.08.04-07.30.55:311][140]LogEditorTransaction: Undo Edit Right
+[2018.08.04-07.30.57:428][140]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.088 s
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: 
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: 
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: Stack: 
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0fce7136 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.04-07.30.57:428][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0fa20c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0fa3b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa3ee3f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9e44c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd075d9e58 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd075dabfd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd075da89e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd07624391 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0751ce5a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd074a0e88 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd07533cc2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0749e729 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c2a6a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c0b93b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c051444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd04ec6cd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd04e65a96 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd04df73c4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd04ef9a79 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd04ebee5b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd08effce9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c62d8d3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0adb4515 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0906e4bd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.08.04-07.30.57:429][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9e4d16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa1015b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9f6485 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa62d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0aaa9acd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa3c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9f58ec UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9ef526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2cd4b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd11e177ce UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd11e17bee UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c0629fe UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c164fce UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c16d660 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c141e2f UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:431][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c229c3b UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c16f375 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c0194c5 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c0b1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c097c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd0c08b25c UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd3b24d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd3b240270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd3b24f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd3b23c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd6dd66cc1 USER32.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd6dd66693 USER32.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd3b250646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ff6085554e5 UE4Editor.exe!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ff608565b3c UE4Editor.exe!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ff608565bba UE4Editor.exe!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ff608573dac UE4Editor.exe!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ff608575aaa UE4Editor.exe!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd6fe93034 KERNEL32.DLL!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: [Callstack] 0x00007ffd70371431 ntdll.dll!UnknownFunction []
+[2018.08.04-07.30.57:432][140]LogOutputDevice: Error: 
+[2018.08.04-07.30.57:443][140]LogStats:                SubmitErrorReport -  0.006 s
+[2018.08.04-07.31.02:580][140]LogStats:                    SendNewReport -  5.137 s
+[2018.08.04-07.31.02:580][140]LogStats:             FDebug::EnsureFailed -  7.240 s
+[2018.08.04-07.31.06:073][255]Cmd: TRANSACTION UNDO
+[2018.08.04-07.31.06:073][255]LogEditorTransaction: Undo Resize Widget
+[2018.08.04-07.31.09:231][361]Cmd: TRANSACTION UNDO
+[2018.08.04-07.31.09:231][361]LogEditorTransaction: Undo Edit Right
+[2018.08.04-07.31.15:261][710]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.31.18:535][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.31.18:553][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.31.18:553][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.31.18:554][993]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:31:18)
+[2018.08.04-07.31.18:554][993]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.31.18:563][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009074s)
+[2018.08.04-07.31.18:564][993]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.31.18:564][993]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2018.08.04-07.31.18:564][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010284s)
+[2018.08.04-07.31.18:598][993]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.31.18:604][993]LogInit: FAudioDevice initialized.
+[2018.08.04-07.31.18:632][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.31.18:635][993]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.31.18
+[2018.08.04-07.31.18:636][993]LogWorld: Bringing up level for play took: 0.002571
+[2018.08.04-07.31.18:650][993]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,402
+[2018.08.04-07.31.18:650][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.31.26:750][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.31.26:750][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.31.26:787][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.31.26:788][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.31.26:818][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.31.26:856][960]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.08.04-07.31.27:965][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-07.31.59:265][832]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.32.38:768][545]Cmd: TRANSACTION UNDO
+[2018.08.04-07.32.38:768][545]LogEditorTransaction: Undo Edit Left
+[2018.08.04-07.33.01:176][107]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.33.01:949][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.08.04-07.33.01:975][154]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUDC55FC06D4332ED1002489F9CAE940923.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2018.08.04-07.33.04:429][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.33.04:446][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.33.04:447][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.33.04:447][400]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:33:04)
+[2018.08.04-07.33.04:447][400]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.33.04:457][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009846s)
+[2018.08.04-07.33.04:458][400]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.33.04:458][400]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2018.08.04-07.33.04:458][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011311s)
+[2018.08.04-07.33.04:493][400]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.33.04:501][400]LogInit: FAudioDevice initialized.
+[2018.08.04-07.33.04:531][400]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.33.04:534][400]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.33.04
+[2018.08.04-07.33.04:535][400]LogWorld: Bringing up level for play took: 0.002734
+[2018.08.04-07.33.04:548][400]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,504
+[2018.08.04-07.33.04:549][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.36.34:154][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.36.34:155][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.36.34:188][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.36.34:189][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.36.34:221][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.36.34:255][645]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.08.04-07.37.20:674][872]LogEditorTransaction: Undo Move Widget
+[2018.08.04-07.40.53:373][ 98]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.40.54:087][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.08.04-07.40.54:156][145]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUDBC1F7D1C4E79628E5DADF5B9F807AF5F.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2018.08.04-07.41.04:626][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.08.04-07.41.04:651][407]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUDD8CA7CFE4E602861E2CFFF984EBEEA6D.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2018.08.04-07.41.06:402][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.41.06:419][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.41.06:419][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.41.06:419][573]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:41:06)
+[2018.08.04-07.41.06:419][573]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.41.06:431][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011706s)
+[2018.08.04-07.41.06:432][573]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.41.06:432][573]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2018.08.04-07.41.06:432][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013044s)
+[2018.08.04-07.41.06:469][573]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.41.06:476][573]LogInit: FAudioDevice initialized.
+[2018.08.04-07.41.06:503][573]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.41.06:505][573]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.41.06
+[2018.08.04-07.41.06:505][573]LogWorld: Bringing up level for play took: 0.002271
+[2018.08.04-07.41.06:519][573]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,533
+[2018.08.04-07.41.06:519][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.41.22:597][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.41.22:597][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.41.22:632][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.41.22:633][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.41.22:663][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.41.22:699][503]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.08.04-07.41.38:953][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-07.42.34:038][293]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.031
+[2018.08.04-07.42.34:039][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/HUD] ([1] browsable assets)...
+[2018.08.04-07.42.34:039][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
+[2018.08.04-07.42.34:066][293]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUD_Auto5E76F2537401661F8CF815C8DDF0C1B77.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto5.uasset'
+[2018.08.04-07.42.34:067][293]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.08.04-07.44.11:665][834]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.44.12:384][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.08.04-07.44.12:410][877]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUDBECD1D12446581EA1E2F6FB751E0CADF.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2018.08.04-07.44.14:682][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.44.14:700][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.14:700][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.44.14:700][ 94]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:44:14)
+[2018.08.04-07.44.14:700][ 94]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.44.14:711][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010609s)
+[2018.08.04-07.44.14:712][ 94]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.44.14:712][ 94]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.08.04-07.44.14:712][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012062s)
+[2018.08.04-07.44.14:748][ 94]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.44.14:755][ 94]LogInit: FAudioDevice initialized.
+[2018.08.04-07.44.14:788][ 94]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.44.14:791][ 94]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.44.14
+[2018.08.04-07.44.14:791][ 94]LogWorld: Bringing up level for play took: 0.002758
+[2018.08.04-07.44.14:805][ 94]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,248
+[2018.08.04-07.44.14:805][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.17:978][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.17:978][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.44.18:009][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.44.18:009][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.18:039][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.44.18:085][476]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.08.04-07.44.19:593][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.04-07.44.34:100][490]BlueprintLog: New page: Compile HUD
+[2018.08.04-07.44.34:584][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.08.04-07.44.34:611][516]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUDBF0BE29041BA159C1DFC3AAE22B2C27A.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset'
+[2018.08.04-07.44.36:930][748]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.04-07.44.36:947][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.36:947][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.04-07.44.36:947][748]PIE: New page: PIE session: ThirdPersonExampleMap (4 авг. 2018 г., 13:44:36)
+[2018.08.04-07.44.36:947][748]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.04-07.44.36:956][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008868s)
+[2018.08.04-07.44.36:957][748]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.04-07.44.36:957][748]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.08.04-07.44.36:957][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009859s)
+[2018.08.04-07.44.36:992][748]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.04-07.44.36:999][748]LogInit: FAudioDevice initialized.
+[2018.08.04-07.44.37:025][748]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.04-07.44.37:028][748]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.04-10.44.37
+[2018.08.04-07.44.37:028][748]LogWorld: Bringing up level for play took: 0.002250
+[2018.08.04-07.44.37:042][748]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,01
+[2018.08.04-07.44.37:042][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.39:130][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.39:131][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.44.39:165][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.04-07.44.39:166][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.04-07.44.39:196][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.04-07.44.39:232][999]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.08.04-07.48.15:447][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.04-07.48.16:417][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/HUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset" SILENT=true
+[2018.08.04-07.48.16:445][816]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/HUD559D2829476FECF5F162D1BEB646F04F.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/HUD.uasset'
