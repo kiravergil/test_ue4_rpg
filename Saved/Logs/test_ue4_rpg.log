@@ -10340,3 +10340,1175 @@ Script call stack:
 [2018.08.05-14.30.27:226][382]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
 [2018.08.05-14.30.31:811][881]BlueprintLog: New page: Compile ThirdPersonGameMode
 [2018.08.05-14.30.32:351][915]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonGameMode7D929C7C400A910AF2D7CC8B09AFAF02.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.08.05-14.31.54:452][825]BlueprintLog: New page: Compile MeleeHUD
+[2018.08.05-14.31.55:025][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeHUD" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset" SILENT=true
+[2018.08.05-14.31.55:060][862]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeHUD8537FB154910E1FE81F25780FF5C9DE9.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeHUD.uasset'
+[2018.08.05-14.57.41:483][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.05-15.10.58:784][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.11.00:853][217]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapon_sword.Weapon_sword
+[2018.08.05-15.11.17:412][677]BlueprintLog: New page: Compile Weapon_sword
+[2018.08.05-15.11.50:585][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.11.50:713][808]Cmd: MODE GRID=0
+[2018.08.05-15.12.06:189][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.12.11:059][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.12.11:184][683]Cmd: MODE SCALEGRID=0
+[2018.08.05-15.12.32:272][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.12.37:047][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.12.56:801][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.12.56:926][847]BlueprintLog: New page: Compile Weapon_sword
+[2018.08.05-15.12.57:811][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon_sword" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Weapon_sword.uasset" SILENT=true
+[2018.08.05-15.12.57:833][893]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Weapon_sword15F1DA17400DE381820175907CAE0549.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Weapon_sword.uasset'
+[2018.08.05-15.13.37:927][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon_sword" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Weapon_sword.uasset" SILENT=true
+[2018.08.05-15.13.37:939][206]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Weapon_swordFB823F2A42C01D7E9B76D1BCF7C17AFE.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Weapon_sword.uasset'
+[2018.08.05-15.13.38:799][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Weapon_sword" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Weapon_sword.uasset" SILENT=true
+[2018.08.05-15.13.38:811][286]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Weapon_sword4FA9DD644F055DA3F1F381A12FCDEF05.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/Weapon_sword.uasset'
+[2018.08.05-15.13.42:812][623]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2018.08.05-15.14.33:135][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.15.51:665][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.066
+[2018.08.05-15.15.51:669][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SimpleAI] ([1] browsable assets)...
+[2018.08.05-15.15.51:715][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI]
+[2018.08.05-15.15.51:715][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SimpleAI]
+[2018.08.05-15.15.51:809][628]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI_Auto94B9D7035410EE9A730FBBB8C11F6077D.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SimpleAI_Auto9.uasset'
+[2018.08.05-15.15.51:811][628]LogFileHelpers: Auto-saving content packages took 0.143
+[2018.08.05-15.16.55:674][156]BlueprintLog: New page: Compile SimpleAI
+[2018.08.05-15.16.56:237][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.05-15.16.56:280][173]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAIDFFE571F4B0940A60FAF3EAAD00D4907.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.05-15.16.58:558][418]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-15.16.58:667][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.16.58:667][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-15.16.58:667][418]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 21:16:58)
+[2018.08.05-15.16.58:668][418]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-15.16.58:705][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036381s)
+[2018.08.05-15.16.58:706][418]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-15.16.58:707][418]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2018.08.05-15.16.58:707][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038502s)
+[2018.08.05-15.16.58:766][418]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-15.16.58:775][418]LogInit: FAudioDevice initialized.
+[2018.08.05-15.16.58:806][418]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-15.16.58:810][418]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-18.16.58
+[2018.08.05-15.16.58:812][418]LogWorld: Bringing up level for play took: 0.005863
+[2018.08.05-15.16.58:828][418]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,035
+[2018.08.05-15.16.58:828][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.17.00:680][634]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.17.02:557][859]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.04:837][127]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.06:089][277]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.06:781][360]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.07:098][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.17.07:105][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.17.07:150][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-15.17.07:150][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.17.07:196][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.17.07:218][399]LogPlayLevel: Display: Destroying online subsystem :Context_204
+[2018.08.05-15.17.09:388][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-15.17.46:014][273]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.17.46:622][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeCharacter" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset" SILENT=true
+[2018.08.05-15.17.46:725][273]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeCharacter631EBA8D4B2B61BC6D41AD87A90C88B7.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset'
+[2018.08.05-15.17.50:341][654]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-15.17.50:371][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.17.50:371][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-15.17.50:371][654]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 21:17:50)
+[2018.08.05-15.17.50:372][654]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-15.17.50:384][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012087s)
+[2018.08.05-15.17.50:385][654]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-15.17.50:385][654]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2018.08.05-15.17.50:385][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013247s)
+[2018.08.05-15.17.50:437][654]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-15.17.50:444][654]LogInit: FAudioDevice initialized.
+[2018.08.05-15.17.50:474][654]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-15.17.50:479][654]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-18.17.50
+[2018.08.05-15.17.50:480][654]LogWorld: Bringing up level for play took: 0.004660
+[2018.08.05-15.17.50:494][654]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,702
+[2018.08.05-15.17.50:495][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.17.55:658][270]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.56:358][354]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.57:117][445]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.57:492][490]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.17.58:592][622]LogBlueprintUserMessages: [SimpleAI6_14] hit
+[2018.08.05-15.18.00:742][880]LogBlueprintUserMessages: [SimpleAI6_14] hit
+[2018.08.05-15.18.01:427][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.18.01:433][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.18.01:529][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-15.18.01:530][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.18.01:576][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.18.01:598][963]LogPlayLevel: Display: Destroying online subsystem :Context_205
+[2018.08.05-15.18.02:595][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.18.22:713][439]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.18.23:607][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeCharacter" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset" SILENT=true
+[2018.08.05-15.18.23:682][460]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeCharacterCE0CF76B44275BB1BF8DD4BD530D55EE.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset'
+[2018.08.05-15.18.25:713][672]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-15.18.25:743][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.18.25:743][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-15.18.25:743][672]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 21:18:25)
+[2018.08.05-15.18.25:744][672]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-15.18.25:753][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009489s)
+[2018.08.05-15.18.25:754][672]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-15.18.25:754][672]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2018.08.05-15.18.25:754][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010564s)
+[2018.08.05-15.18.25:814][672]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-15.18.25:822][672]LogInit: FAudioDevice initialized.
+[2018.08.05-15.18.25:855][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-15.18.25:859][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-18.18.25
+[2018.08.05-15.18.25:861][672]LogWorld: Bringing up level for play took: 0.005604
+[2018.08.05-15.18.25:876][672]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,083
+[2018.08.05-15.18.25:877][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.18.29:477][100]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.18.30:070][171]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.18.30:527][226]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.18.31:095][294]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.18.35:929][874]LogBlueprintUserMessages: [SimpleAI6_14] hit
+[2018.08.05-15.18.36:889][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.18.36:895][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.18.36:937][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-15.18.36:937][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.18.36:985][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.18.37:006][990]LogPlayLevel: Display: Destroying online subsystem :Context_206
+[2018.08.05-15.19.09:530][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-15.19.24:004][696]LogEditorTransaction: Undo Add Node
+[2018.08.05-15.19.24:289][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.19.24:301][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.19.24:354][696]LogEditorTransaction: Undo Move Node
+[2018.08.05-15.19.24:570][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.19.24:575][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.20.40:074][ 66]BlueprintLog: New page: Compile SimpleAI
+[2018.08.05-15.20.40:096][ 66]LogBlueprint: Error: [Compiler SimpleAI] This blueprint (self) is not a MeleeCharacter_C, therefore ' Target ' must have a connection.
+[2018.08.05-15.20.40:115][ 66]LogBlueprint: Error: [Compiler SimpleAI] Variable node  Get IsAtackingSlash  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.05-15.20.40:408][ 66]LogBlueprint: Warning: [Compiler SimpleAI] [8514,21] Compile of SimpleAI failed. 2 Fatal Issue(s) 0 Warning(s) [in 333 ms] (/Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI)
+[2018.08.05-15.25.56:283][654]BlueprintLog: New page: Compile SimpleAI
+[2018.08.05-15.25.57:073][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.05-15.25.57:120][689]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAIAE4EB4B54F3C9347E7AC42A25723D93B.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.05-15.25.59:192][896]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-15.25.59:290][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.25.59:290][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-15.25.59:291][896]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 21:25:59)
+[2018.08.05-15.25.59:291][896]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-15.25.59:304][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013143s)
+[2018.08.05-15.25.59:305][896]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-15.25.59:305][896]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2018.08.05-15.25.59:305][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014534s)
+[2018.08.05-15.25.59:354][896]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-15.25.59:361][896]LogInit: FAudioDevice initialized.
+[2018.08.05-15.25.59:396][896]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-15.25.59:400][896]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-18.25.59
+[2018.08.05-15.25.59:401][896]LogWorld: Bringing up level for play took: 0.004310
+[2018.08.05-15.25.59:416][896]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,376
+[2018.08.05-15.25.59:416][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.26.04:529][506]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.26.12:214][428]LogBlueprintUserMessages: [SimpleAI6_14] hit
+[2018.08.05-15.26.12:881][508]LogBlueprintUserMessages: [SimpleAI6_14] hit
+[2018.08.05-15.26.22:314][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.26.22:321][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.26.22:365][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-15.26.22:372][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.26.22:420][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.26.22:443][639]LogPlayLevel: Display: Destroying online subsystem :Context_207
+[2018.08.05-15.26.27:376][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-15.27.34:599][265]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.28.09:789][112]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.28.28:392][593]LogEditorTransaction: Undo Resize Node
+[2018.08.05-15.28.28:778][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.28.28:786][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.28.29:484][642]LogEditorTransaction: Undo Resize Node
+[2018.08.05-15.28.29:878][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.28.29:886][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.28.31:364][759]LogEditorTransaction: Undo Move Nodes
+[2018.08.05-15.28.31:756][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.28.31:764][759]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.05-15.29.14:003][992]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.29.14:687][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeCharacter" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset" SILENT=true
+[2018.08.05-15.29.14:770][993]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeCharacter02ADC4CB4A984ADB318EFA86E9C3B9E0.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset'
+[2018.08.05-15.29.16:987][201]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-15.29.17:019][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.17:019][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-15.29.17:019][201]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 21:29:17)
+[2018.08.05-15.29.17:020][201]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-15.29.17:029][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009264s)
+[2018.08.05-15.29.17:030][201]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-15.29.17:030][201]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2018.08.05-15.29.17:030][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010494s)
+[2018.08.05-15.29.17:096][201]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-15.29.17:103][201]LogInit: FAudioDevice initialized.
+[2018.08.05-15.29.17:131][201]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-15.29.17:136][201]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-18.29.17
+[2018.08.05-15.29.17:137][201]LogWorld: Bringing up level for play took: 0.004728
+[2018.08.05-15.29.17:152][201]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,641
+[2018.08.05-15.29.17:152][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.21:210][684]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.29.21:702][743]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.29.22:487][837]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.29.24:389][ 65]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.29.24:881][124]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.29.27:506][439]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-15.29.29:459][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.29:466][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.29.29:506][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-15.29.29:507][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.29:555][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.29.29:575][669]LogPlayLevel: Display: Destroying online subsystem :Context_208
+[2018.08.05-15.29.31:550][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-15.29.44:761][773]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.29.45:500][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeCharacter" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset" SILENT=true
+[2018.08.05-15.29.45:583][778]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeCharacter652D2F954E25E0F3AE8B46AD479D74DD.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset'
+[2018.08.05-15.29.48:276][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-15.29.48:306][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.48:306][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-15.29.48:306][ 47]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 21:29:48)
+[2018.08.05-15.29.48:307][ 47]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-15.29.48:317][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010379s)
+[2018.08.05-15.29.48:318][ 47]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-15.29.48:318][ 47]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.08.05-15.29.48:318][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011346s)
+[2018.08.05-15.29.48:378][ 47]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-15.29.48:386][ 47]LogInit: FAudioDevice initialized.
+[2018.08.05-15.29.48:418][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-15.29.48:423][ 47]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-18.29.48
+[2018.08.05-15.29.48:424][ 47]LogWorld: Bringing up level for play took: 0.004548
+[2018.08.05-15.29.48:439][ 47]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,646
+[2018.08.05-15.29.48:439][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.53:412][640]LogBlueprintUserMessages: [SimpleAI3_5] hit
+[2018.08.05-15.29.57:758][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.57:765][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.29.57:806][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-15.29.57:806][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-15.29.57:851][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-15.29.57:872][162]LogPlayLevel: Display: Destroying online subsystem :Context_209
+[2018.08.05-15.30.22:735][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-15.30.23:041][139]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_Auto048FE3CC44C0EB6DAF6363382A4DA0635.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2018.08.05-15.30.23:046][139]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.295
+[2018.08.05-15.30.23:046][139]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2018.08.05-15.58.27:885][822]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.testue4rpg
+[2018.08.05-15.58.27:885][822]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.05-15.58.27:885][822]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.08.05-15.58.27:885][822]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.05-15.58.27:885][822]LogTemp: BranchPath = DESKTOP-359PM8M/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-359PM8M/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.08.05-15.58.27:885][822]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kira\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.05-15.58.27:885][822]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.05-15.58.46:790][804]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.05-15.58.46:792][804]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.05-15.59.41:378][573]BlueprintLog: New page: Compile MeleeCharacter
+[2018.08.05-15.59.43:058][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MeleeCharacter" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset" SILENT=true
+[2018.08.05-15.59.43:145][645]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MeleeCharacter8E9D6BDA47E35B8C167E7BB4EECC18EE.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter.uasset'
+[2018.08.05-15.59.55:932][721]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MageCharacter.MageCharacter
+[2018.08.05-16.00.34:203][683]BlueprintLog: New page: Compile MageCharacter
+[2018.08.05-16.00.35:025][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MageCharacter" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MageCharacter.uasset" SILENT=true
+[2018.08.05-16.00.35:179][684]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/MageCharacterA62571834EADA1D747894B9FD9D53612.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MageCharacter.uasset'
+[2018.08.05-16.00.38:985][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-16.00.39:019][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.00.39:020][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-16.00.39:020][ 57]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 22:00:39)
+[2018.08.05-16.00.39:025][ 57]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-16.00.39:052][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026286s)
+[2018.08.05-16.00.39:053][ 57]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-16.00.39:053][ 57]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2018.08.05-16.00.39:053][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027645s)
+[2018.08.05-16.00.39:117][ 57]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-16.00.39:126][ 57]LogInit: FAudioDevice initialized.
+[2018.08.05-16.00.39:155][ 57]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-16.00.39:160][ 57]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-19.00.39
+[2018.08.05-16.00.39:161][ 57]LogWorld: Bringing up level for play took: 0.004594
+[2018.08.05-16.00.39:177][ 57]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,616
+[2018.08.05-16.00.39:177][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.00.53:878][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.00.53:885][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.00.53:923][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-16.00.53:924][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.00.53:973][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.00.53:997][816]LogPlayLevel: Display: Destroying online subsystem :Context_211
+[2018.08.05-16.00.57:950][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-16.01.02:370][345]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-16.01.02:406][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.01.02:406][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-16.01.02:406][345]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 22:01:02)
+[2018.08.05-16.01.02:406][345]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-16.01.02:418][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011309s)
+[2018.08.05-16.01.02:419][345]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-16.01.02:419][345]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2018.08.05-16.01.02:419][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012624s)
+[2018.08.05-16.01.02:468][345]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-16.01.02:475][345]LogInit: FAudioDevice initialized.
+[2018.08.05-16.01.02:508][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-16.01.02:512][345]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-19.01.02
+[2018.08.05-16.01.02:514][345]LogWorld: Bringing up level for play took: 0.004923
+[2018.08.05-16.01.02:529][345]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,737
+[2018.08.05-16.01.02:529][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.01.09:613][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-16.01.39:577][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.01.39:584][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.01.39:623][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-16.01.39:624][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.01.39:672][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.01.39:692][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_212
+[2018.08.05-16.01.41:129][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-16.01.49:650][802]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.05-16.01.49:731][803]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.testue4rpg
+[2018.08.05-16.01.49:731][803]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.05-16.01.49:731][803]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.08.05-16.01.49:731][803]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.08.05-16.01.49:731][803]LogTemp: BranchPath = DESKTOP-359PM8M/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-359PM8M/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.08.05-16.01.49:731][803]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Kira\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.05-16.02.07:916][806]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.05-16.02.07:920][806]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.05-16.02.08:923][891]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-16.02.08:960][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.02.08:960][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-16.02.08:960][891]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 22:02:08)
+[2018.08.05-16.02.08:961][891]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-16.02.08:971][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009971s)
+[2018.08.05-16.02.08:972][891]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-16.02.08:972][891]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.08.05-16.02.08:972][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011131s)
+[2018.08.05-16.02.09:025][891]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-16.02.09:034][891]LogInit: FAudioDevice initialized.
+[2018.08.05-16.02.09:065][891]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-16.02.09:069][891]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-19.02.09
+[2018.08.05-16.02.09:070][891]LogWorld: Bringing up level for play took: 0.004706
+[2018.08.05-16.02.09:085][891]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,707
+[2018.08.05-16.02.09:086][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.02.22:420][487]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.23:137][573]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.25:270][829]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.27:403][ 85]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.27:887][143]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.29:545][342]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.30:028][400]LogBlueprintUserMessages: [SimpleAI_2] hit
+[2018.08.05-16.02.42:192][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.02.42:200][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.02.42:238][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-16.02.42:238][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.02.42:284][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.02.42:303][860]LogPlayLevel: Display: Destroying online subsystem :Context_213
+[2018.08.05-16.02.45:014][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-16.02.49:712][457]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.49:712][457]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.49:714][457]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.49:715][457]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.49:720][457]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:527][530]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:528][530]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:530][530]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:536][530]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:798][554]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:798][554]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:801][554]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:806][554]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:811][555]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:813][555]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:818][555]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:822][556]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:825][556]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:830][556]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:835][557]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:837][557]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:842][557]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:847][558]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:849][558]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:853][558]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:859][559]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:864][559]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:870][560]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:875][560]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:882][561]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:887][561]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:892][562]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:897][562]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:904][563]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:908][563]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:915][564]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:919][564]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:926][565]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:931][565]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:937][566]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:942][566]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:948][567]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:952][567]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:958][568]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:964][568]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:969][569]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:974][569]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:980][570]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:985][570]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:992][571]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.50:998][571]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:004][572]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:009][572]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:015][573]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:019][573]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:025][574]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:031][574]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:036][575]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:041][575]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:048][576]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:052][576]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:058][577]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:063][577]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:069][578]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:074][578]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:080][579]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:085][579]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:091][580]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:096][580]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:102][581]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:107][581]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:113][582]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:118][582]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:124][583]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:129][583]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:135][584]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:140][584]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:146][585]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:151][585]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:157][586]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:162][586]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:168][587]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:172][587]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:179][588]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:184][588]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:189][589]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:194][589]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:200][590]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:205][590]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:211][591]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:216][591]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:221][592]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:226][592]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:232][593]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:237][593]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:243][594]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:248][594]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:254][595]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:258][595]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:264][596]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:269][596]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:275][597]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:280][597]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:286][598]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:291][598]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:297][599]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:301][599]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:308][600]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:312][600]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:319][601]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:323][601]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:329][602]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:334][602]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:339][603]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:344][603]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:351][604]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:355][604]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:361][605]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:366][605]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:372][606]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:376][606]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:383][607]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:389][607]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:401][608]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:403][608]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:408][608]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:413][609]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:415][609]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:419][609]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:424][610]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:426][610]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:431][610]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.02.51:435][611]LogUObjectArray: Warning: Invalid object index 5242977
+[2018.08.05-16.04.29:152][604]BlueprintLog: New page: Compile SimpleAI
+[2018.08.05-16.04.30:409][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.05-16.04.30:471][668]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI3BFE6C6B4D636092BFDEEC8261B4F0C2.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.05-16.04.36:090][270]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-16.04.36:210][270]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.04.36:210][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-16.04.36:210][270]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 22:04:36)
+[2018.08.05-16.04.36:211][270]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-16.04.36:223][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012168s)
+[2018.08.05-16.04.36:224][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-16.04.36:225][270]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2018.08.05-16.04.36:225][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013797s)
+[2018.08.05-16.04.36:269][270]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-16.04.36:276][270]LogInit: FAudioDevice initialized.
+[2018.08.05-16.04.36:304][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-16.04.36:308][270]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-19.04.36
+[2018.08.05-16.04.36:309][270]LogWorld: Bringing up level for play took: 0.004121
+[2018.08.05-16.04.36:324][270]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,531
+[2018.08.05-16.04.36:324][270]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.05.23:834][952]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.05.23:841][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.05.23:879][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-16.05.23:880][952]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.05.23:927][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.05.23:948][953]LogPlayLevel: Display: Destroying online subsystem :Context_214
+[2018.08.05-16.05.51:808][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-16.05.52:106][287]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_Auto14AA8EC964644E9A6CC83C580C13476B3.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.08.05-16.05.52:112][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.287
+[2018.08.05-16.05.52:112][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2018.08.05-16.07.48:317][706]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.05-16.07.50:554][964]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-16.07.50:594][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.07.50:594][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-16.07.50:594][964]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 22:07:50)
+[2018.08.05-16.07.50:595][964]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-16.07.50:604][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009265s)
+[2018.08.05-16.07.50:605][964]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-16.07.50:605][964]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.08.05-16.07.50:605][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010285s)
+[2018.08.05-16.07.50:658][964]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-16.07.50:667][964]LogInit: FAudioDevice initialized.
+[2018.08.05-16.07.50:697][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-16.07.50:701][964]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-19.07.50
+[2018.08.05-16.07.50:702][964]LogWorld: Bringing up level for play took: 0.005130
+[2018.08.05-16.07.50:717][964]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,925
+[2018.08.05-16.07.50:718][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.08.45:541][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.08.45:548][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.08.45:586][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-16.08.45:587][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.08.45:634][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.08.45:655][529]LogPlayLevel: Display: Destroying online subsystem :Context_215
+[2018.08.05-16.08.47:371][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-16.08.50:406][  5]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.05-16.08.57:389][734]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.08.05-16.08.59:356][923]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.05-16.08.59:499][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.08.59:499][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.05-16.08.59:499][923]PIE: New page: PIE session: ThirdPersonExampleMap (5 авг. 2018 г., 22:08:59)
+[2018.08.05-16.08.59:499][923]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.05-16.08.59:510][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010510s)
+[2018.08.05-16.08.59:511][923]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.05-16.08.59:511][923]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.08.05-16.08.59:511][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011477s)
+[2018.08.05-16.08.59:569][923]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.05-16.08.59:577][923]LogInit: FAudioDevice initialized.
+[2018.08.05-16.08.59:608][923]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.05-16.08.59:612][923]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.05-19.08.59
+[2018.08.05-16.08.59:614][923]LogWorld: Bringing up level for play took: 0.005209
+[2018.08.05-16.08.59:629][923]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,163
+[2018.08.05-16.08.59:629][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.11.10:177][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.11.10:184][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.11.10:224][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.05-16.11.10:224][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.05-16.11.10:271][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.05-16.11.10:293][556]LogPlayLevel: Display: Destroying online subsystem :Context_216
+[2018.08.05-16.18.58:243][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.068
+[2018.08.05-16.18.58:247][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2018.08.05-16.18.58:247][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2018.08.05-16.18.58:295][260]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonGameMode_Auto2249786824EE1998D3F3E98B701969DA1.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto2.uasset'
+[2018.08.05-16.18.58:296][260]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.08.06-16.05.35:460][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.06.04:828][913]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.06.06:014][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.06:098][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.06.06:208][913]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:06:06)
+[2018.08.06-16.06.06:359][913]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.06.07:315][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.955415s)
+[2018.08.06-16.06.07:673][913]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.06.07:879][913]LogPlayLevel: PIE: World Init took: (0.547940s)
+[2018.08.06-16.06.07:891][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (1.548492s)
+[2018.08.06-16.06.09:157][913]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.06.09:169][913]LogInit: FAudioDevice initialized.
+[2018.08.06-16.06.09:532][913]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.06.10:055][913]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.06.10
+[2018.08.06-16.06.10:228][913]LogWorld: Bringing up level for play took: 0.654510
+[2018.08.06-16.06.10:672][913]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 4,938
+[2018.08.06-16.06.10:802][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.13:453][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.13:494][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.06.14:030][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.06.14:030][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.14:124][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.06.14:253][129]LogPlayLevel: Display: Destroying online subsystem :Context_217
+[2018.08.06-16.06.18:576][414]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.06-16.06.25:171][ 51]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2018.08.06-16.06.28:534][ 51]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonGameMode3E8368064CF8B78EA8BB64AE087672DD.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.08.06-16.06.29:904][124]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonGameMode55672D0C416963F307A7F686AED213B8.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.08.06-16.06.32:256][375]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.06.32:290][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.32:290][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.06.32:291][375]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:06:32)
+[2018.08.06-16.06.32:291][375]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.06.32:301][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009590s)
+[2018.08.06-16.06.32:302][375]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.06.32:302][375]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2018.08.06-16.06.32:302][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011212s)
+[2018.08.06-16.06.32:365][375]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.06.32:374][375]LogInit: FAudioDevice initialized.
+[2018.08.06-16.06.32:406][375]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.06.32:411][375]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.06.32
+[2018.08.06-16.06.32:413][375]LogWorld: Bringing up level for play took: 0.005884
+[2018.08.06-16.06.32:438][375]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,731
+[2018.08.06-16.06.32:438][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.47:056][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.47:063][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.06.47:109][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.06.47:109][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.06.47:159][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.06.47:199][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_218
+[2018.08.06-16.06.50:061][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.07.02:558][146]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.07.02:592][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.07.02:592][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.07.02:593][146]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:07:02)
+[2018.08.06-16.07.02:594][146]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.07.02:606][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011674s)
+[2018.08.06-16.07.02:606][146]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.07.02:607][146]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2018.08.06-16.07.02:607][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012777s)
+[2018.08.06-16.07.02:671][146]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.07.02:678][146]LogInit: FAudioDevice initialized.
+[2018.08.06-16.07.02:713][146]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.07.02:718][146]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.07.02
+[2018.08.06-16.07.02:719][146]LogWorld: Bringing up level for play took: 0.005406
+[2018.08.06-16.07.02:735][146]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,028
+[2018.08.06-16.07.02:735][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.07.10:389][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.07.10:396][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.07.10:522][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.07.10:522][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.07.10:570][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.07.10:590][993]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2018.08.06-16.07.12:464][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.07.25:551][ 72]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.07.26:350][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-16.07.26:471][ 86]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAICA3A143C4C758BEA729CB7A49A8A8560.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-16.07.27:679][190]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.07.27:826][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.07.27:826][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.07.27:826][190]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:07:27)
+[2018.08.06-16.07.27:827][190]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.07.27:837][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010030s)
+[2018.08.06-16.07.27:838][190]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.07.27:839][190]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2018.08.06-16.07.27:839][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011300s)
+[2018.08.06-16.07.27:905][190]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.07.27:913][190]LogInit: FAudioDevice initialized.
+[2018.08.06-16.07.27:946][190]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.07.27:950][190]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.07.27
+[2018.08.06-16.07.27:952][190]LogWorld: Bringing up level for play took: 0.005368
+[2018.08.06-16.07.27:968][190]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,261
+[2018.08.06-16.07.27:968][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.07.37:810][332]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.07.37:829][332]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.07.37:882][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.07.37:958][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.37:958][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.37:958][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.37:958][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.51:756][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.51:756][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.51:756][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.51:756][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.55:363][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.55:363][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.55:363][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.55:363][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.57:241][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.57:241][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.57:241][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.07.57:241][332]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.29:650][535]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.08.29:650][535]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.08.29:656][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.08.29:662][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.29:662][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.29:662][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.29:662][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.35:531][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.35:531][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.35:531][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.35:531][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:227][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:227][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:227][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:227][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:964][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:964][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:964][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.36:964][535]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.43:208][ 22]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.08.43:208][ 22]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.08.43:214][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.08.43:220][ 22]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.43:220][ 22]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.43:220][ 22]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.43:220][ 22]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.47:824][134]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.08.47:825][134]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.08.47:838][134]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.47:838][134]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.47:838][134]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.47:839][134]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.52:978][428]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.08.52:978][428]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.08.52:992][428]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.52:992][428]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.52:992][428]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.52:992][428]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.56:110][593]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.08.56:110][593]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.08.56:115][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.08.56:124][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.56:124][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.56:124][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.56:125][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.57:829][593]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.08.57:829][593]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.08.57:844][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.57:844][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.57:844][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.08.57:844][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.03:821][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.03:821][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.03:821][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.03:821][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.04:623][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.04:624][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.04:624][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.04:624][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.06:860][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.06:860][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.06:860][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.06:860][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.07:557][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.07:557][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.07:557][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.07:557][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.08:592][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.08:592][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.08:592][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.08:594][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.10:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.10:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.10:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.10:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.11:391][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.11:391][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.11:391][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.11:391][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.12:393][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.12:393][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.12:393][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.12:393][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:027][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:546][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:546][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:546][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.13:546][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:001][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:001][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:001][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:001][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:453][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:453][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:453][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.14:453][593]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_132.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.09.57:540][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.09.57:546][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.09.57:581][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.09.57:581][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.09.57:655][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.09.57:686][138]LogPlayLevel: Display: Destroying online subsystem :Context_220
+[2018.08.06-16.09.59:609][282]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2018.08.06-16.16.24:878][435]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.16.27:757][582]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.16.28:520][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-16.16.28:591][604]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI891040534046B2C896F0ACAD1C31DB67.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-16.16.30:879][827]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.16.30:996][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.16.30:996][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.16.30:997][827]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:16:30)
+[2018.08.06-16.16.30:997][827]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.16.31:008][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010510s)
+[2018.08.06-16.16.31:008][827]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.16.31:009][827]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.08.06-16.16.31:009][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011532s)
+[2018.08.06-16.16.31:087][827]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.16.31:094][827]LogInit: FAudioDevice initialized.
+[2018.08.06-16.16.31:126][827]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.16.31:131][827]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.16.31
+[2018.08.06-16.16.31:132][827]LogWorld: Bringing up level for play took: 0.005118
+[2018.08.06-16.16.31:147][827]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,559
+[2018.08.06-16.16.31:148][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.16.39:379][810]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_ComponentBoundEvent', from offset 0
+[2018.08.06-16.16.39:379][810]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI_C:BndEvt__CapsuleComponent_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+
+[2018.08.06-16.16.39:384][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.16.39:461][810]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_133.MeleeHUD_C_0.WidgetTree_0.Ability1Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.16.39:461][810]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_133.MeleeHUD_C_0.WidgetTree_0.Ability2Cooldown.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.16.39:461][810]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_133.MeleeHUD_C_0.WidgetTree_0.Health.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.16.39:461][810]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_133.MeleeHUD_C_0.WidgetTree_0.Stamina.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2018.08.06-16.16.44:905][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.16.44:912][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.16.45:061][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.16.45:061][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.16.45:109][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.16.45:185][811]LogPlayLevel: Display: Destroying online subsystem :Context_222
+[2018.08.06-16.16.46:941][985]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.16.46:975][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.16.46:975][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.16.46:975][985]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:16:46)
+[2018.08.06-16.16.46:975][985]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.16.46:985][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009267s)
+[2018.08.06-16.16.46:986][985]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.16.46:986][985]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2018.08.06-16.16.46:986][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010530s)
+[2018.08.06-16.16.47:037][985]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.16.47:045][985]LogInit: FAudioDevice initialized.
+[2018.08.06-16.16.47:080][985]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.16.47:084][985]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.16.47
+[2018.08.06-16.16.47:085][985]LogWorld: Bringing up level for play took: 0.005192
+[2018.08.06-16.16.47:099][985]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,607
+[2018.08.06-16.16.47:099][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.17.06:026][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.17.06:033][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.17.06:177][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.17.06:178][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.17.06:223][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.17.06:245][253]LogPlayLevel: Display: Destroying online subsystem :Context_223
+[2018.08.06-16.17.30:690][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.19.15:663][362]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.19.16:436][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-16.19.16:522][386]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAIE5EE14EE49C6AA91F88D2C8CB38E42DD.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-16.19.18:687][580]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.19.18:810][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.19.18:811][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.19.18:811][580]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:19:18)
+[2018.08.06-16.19.18:811][580]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.19.18:823][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011077s)
+[2018.08.06-16.19.18:824][580]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.19.18:824][580]LogPlayLevel: PIE: World Init took: (0.001620s)
+[2018.08.06-16.19.18:825][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012915s)
+[2018.08.06-16.19.18:874][580]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.19.18:881][580]LogInit: FAudioDevice initialized.
+[2018.08.06-16.19.18:931][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.19.18:941][580]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.19.18
+[2018.08.06-16.19.18:944][580]LogWorld: Bringing up level for play took: 0.010099
+[2018.08.06-16.19.18:963][580]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,256
+[2018.08.06-16.19.18:963][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.19.39:016][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.19.39:023][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.19.39:061][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.19.39:062][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.19.39:111][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.19.39:131][947]LogPlayLevel: Display: Destroying online subsystem :Context_224
+[2018.08.06-16.19.40:993][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.19.41:445][219]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.19.41:482][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.19.41:482][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.19.41:483][219]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:19:41)
+[2018.08.06-16.19.41:483][219]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.19.41:492][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009197s)
+[2018.08.06-16.19.41:493][219]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.19.41:493][219]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.08.06-16.19.41:493][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010475s)
+[2018.08.06-16.19.41:544][219]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.19.41:551][219]LogInit: FAudioDevice initialized.
+[2018.08.06-16.19.41:580][219]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.19.41:588][219]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.19.41
+[2018.08.06-16.19.41:589][219]LogWorld: Bringing up level for play took: 0.008068
+[2018.08.06-16.19.41:604][219]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,103
+[2018.08.06-16.19.41:604][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.20.07:362][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.20.07:369][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.20.07:407][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.20.07:408][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.20.07:455][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.20.07:476][303]LogPlayLevel: Display: Destroying online subsystem :Context_225
+[2018.08.06-16.20.33:648][502]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_Auto368FCE046495180E163DB1ABD9C2FE758.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.08.06-16.20.33:675][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.600
+[2018.08.06-16.20.33:675][502]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.600
+[2018.08.06-16.20.45:086][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.20.52:875][103]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:876][103]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:876][103]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:878][103]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:883][103]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:890][104]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:892][104]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:897][104]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:904][105]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:906][105]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.20.52:912][105]LogUObjectBase: Warning: Object is not registered
+[2018.08.06-16.21.20:206][996]LogEditorTransaction: Undo Delete current selection
+[2018.08.06-16.21.21:356][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.06-16.21.21:417][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.06-16.21.27:489][440]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Event ActorBeginOverlap  and was replaced as a Custom Event!
+[2018.08.06-16.22.13:554][249]BlueprintLog: New page: Compile LootPickUp
+[2018.08.06-16.22.14:099][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/LootPickUp" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/LootPickUp.uasset" SILENT=true
+[2018.08.06-16.22.14:152][252]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/LootPickUp23D2ECC344392D76AC7219AE2B006A16.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/LootPickUp.uasset'
+[2018.08.06-16.24.48:159][146]BlueprintLog: New page: Compile Melee_AnimBP
+[2018.08.06-16.24.48:181][146]LogBlueprint: Warning: [Compiler Melee_AnimBP] Idle to Movement  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.24.48:181][146]LogBlueprint: Warning: [Compiler Melee_AnimBP] Movement to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.24.48:181][146]LogBlueprint: Warning: [Compiler Melee_AnimBP] Idle to Sword_Attack  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.24.48:181][146]LogBlueprint: Warning: [Compiler Melee_AnimBP] Sword_Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.24.48:446][146]LogBlueprint: Warning: [Compiler Melee_AnimBP] [8762,33] Compile of Melee_AnimBP successful, but with 4 Warning(s) [in 287 ms] (/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.Melee_AnimBP)
+[2018.08.06-16.24.49:141][180]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_AnimBP9637B7034645D4D0F9FE62A9EC247797.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.uasset'
+[2018.08.06-16.28.59:673][238]BlueprintLog: New page: Compile Melee_AnimBP
+[2018.08.06-16.28.59:696][238]LogBlueprint: Warning: [Compiler Melee_AnimBP] Idle to Sword_Attack  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.28.59:697][238]LogBlueprint: Warning: [Compiler Melee_AnimBP] Sword_Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.28.59:922][238]LogBlueprint: Warning: [Compiler Melee_AnimBP] [9013,81] Compile of Melee_AnimBP successful, but with 2 Warning(s) [in 248 ms] (/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.Melee_AnimBP)
+[2018.08.06-16.29.01:322][325]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_AnimBP6B59AC5E42699B848DB18884D5A9F598.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.uasset'
+[2018.08.06-16.29.25:058][407]BlueprintLog: New page: Compile Melee_AnimBP
+[2018.08.06-16.29.25:080][407]LogBlueprint: Warning: [Compiler Melee_AnimBP] Idle to Sword_Attack  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.29.25:080][407]LogBlueprint: Warning: [Compiler Melee_AnimBP] Sword_Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.29.25:281][407]LogBlueprint: Warning: [Compiler Melee_AnimBP] [9039,16] Compile of Melee_AnimBP successful, but with 2 Warning(s) [in 221 ms] (/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.Melee_AnimBP)
+[2018.08.06-16.29.25:906][439]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_AnimBPF7F586C94166B940880F6FB35A154832.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.uasset'
+[2018.08.06-16.30.36:654][523]BlueprintLog: New page: Compile Melee_AnimBP
+[2018.08.06-16.30.36:676][523]LogBlueprint: Warning: [Compiler Melee_AnimBP] Idle to Sword_Attack  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.30.36:676][523]LogBlueprint: Warning: [Compiler Melee_AnimBP] Sword_Attack to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.08.06-16.30.36:882][523]LogBlueprint: Warning: [Compiler Melee_AnimBP] [9110,77] Compile of Melee_AnimBP successful, but with 2 Warning(s) [in 227 ms] (/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.Melee_AnimBP)
+[2018.08.06-16.30.37:347][546]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_AnimBPD288A0034E9F13D8D55D72BADF2291AE.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.uasset'
+[2018.08.06-16.31.43:993][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2018.08.06-16.31.44:005][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP] ([1] browsable assets)...
+[2018.08.06-16.31.44:017][ 29]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.Melee_AnimBP]
+[2018.08.06-16.31.44:017][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP]
+[2018.08.06-16.31.44:072][ 29]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_AnimBP_Auto4CEE5E8B64DDC9B343F17068E7B1883AA.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP_Auto4.uasset'
+[2018.08.06-16.31.44:074][ 29]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.08.06-16.32.21:105][426]BlueprintLog: New page: Compile Melee_AnimBP
+[2018.08.06-16.32.21:780][447]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_AnimBP9E3C2E3346F3B46DF5F983B3E9C1F30B.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_AnimBP.uasset'
+[2018.08.06-16.32.38:447][710]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.32.38:511][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.32.38:511][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.32.38:535][710]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:32:38)
+[2018.08.06-16.32.38:535][710]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.32.38:629][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094720s)
+[2018.08.06-16.32.38:665][710]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.32.38:677][710]LogPlayLevel: PIE: World Init took: (0.047644s)
+[2018.08.06-16.32.38:677][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.142585s)
+[2018.08.06-16.32.38:737][710]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.32.38:746][710]LogInit: FAudioDevice initialized.
+[2018.08.06-16.32.38:794][710]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.32.38:841][710]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.32.38
+[2018.08.06-16.32.38:886][710]LogWorld: Bringing up level for play took: 0.074365
+[2018.08.06-16.32.38:940][710]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,233
+[2018.08.06-16.32.38:950][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.32.55:576][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.32.55:583][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.32.55:704][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.32.55:704][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.32.55:779][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.32.55:802][692]LogPlayLevel: Display: Destroying online subsystem :Context_226
+[2018.08.06-16.33.12:604][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.33.20:171][449]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_MovementBS.Melee_MovementBS
+[2018.08.06-16.33.46:303][649]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Melee_MovementBSE373E2474A4A04486EC5DF91ADD82A6D.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/MeleeCharacter/Melee_MovementBS.uasset'
+[2018.08.06-16.33.48:992][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.33.49:028][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.33.49:028][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.33.49:028][895]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:33:49)
+[2018.08.06-16.33.49:029][895]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.33.49:038][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009517s)
+[2018.08.06-16.33.49:039][895]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.33.49:039][895]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.08.06-16.33.49:039][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010453s)
+[2018.08.06-16.33.49:132][895]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.33.49:139][895]LogInit: FAudioDevice initialized.
+[2018.08.06-16.33.49:172][895]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.33.49:178][895]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.33.49
+[2018.08.06-16.33.49:180][895]LogWorld: Bringing up level for play took: 0.006624
+[2018.08.06-16.33.49:194][895]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,512
+[2018.08.06-16.33.49:194][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.34.04:696][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.34.04:703][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.34.04:740][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.34.04:741][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.34.04:788][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.34.04:812][741]LogPlayLevel: Display: Destroying online subsystem :Context_227
+[2018.08.06-16.36.23:468][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.36.23:545][269]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.06-16.36.23:546][269]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.06-16.36.33:093][332]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap6CD827A34D824071F8CF59ABF6F64302.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.06-16.36.33:223][332]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 8.629
+[2018.08.06-16.37.27:308][345]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.08.06-16.39.12:601][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.41.45:050][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.42.49:850][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.06-16.42.49:850][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.06-16.43.43:294][452]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.44.05:836][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.44.50:794][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.45.10:594][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-16.45.18:106][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.45.18:237][747]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.45.19:412][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-16.45.19:492][824]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI02E5A77444600F2950BADA879D86C4F1.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-16.45.26:428][420]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.45.27:265][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-16.45.27:318][469]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI062B73B846729085CD3ADEA2D00552B6.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-16.46.34:053][105]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_Auto508513C004DF34ADA7F50E095138BB773.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.08.06-16.46.34:059][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.330
+[2018.08.06-16.46.34:059][105]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.330
+[2018.08.06-16.46.34:063][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SimpleAI] ([1] browsable assets)...
+[2018.08.06-16.46.34:075][105]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI]
+[2018.08.06-16.46.34:075][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SimpleAI]
+[2018.08.06-16.46.34:130][105]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI_Auto5730A39A241C2848D34957EAFB7559767.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SimpleAI_Auto5.uasset'
+[2018.08.06-16.46.34:131][105]LogFileHelpers: Auto-saving content packages took 0.069
+[2018.08.06-16.56.34:241][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2018.08.06-16.56.34:245][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SimpleAI] ([1] browsable assets)...
+[2018.08.06-16.56.34:258][238]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI]
+[2018.08.06-16.56.34:258][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SimpleAI]
+[2018.08.06-16.56.34:342][238]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI_Auto670017E79476B510B187963B315E8661C.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SimpleAI_Auto6.uasset'
+[2018.08.06-16.56.34:343][238]LogFileHelpers: Auto-saving content packages took 0.100
+[2018.08.06-16.57.47:661][216]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.58.10:103][803]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.58.31:767][640]LogEditorViewport: Clicking on Actor (LMB): SimpleAI_C (SimpleAI6)
+[2018.08.06-16.58.34:211][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.58.46:039][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.08.06-16.58.46:867][419]LogEditorViewport: Clicking on Actor (LMB): SimpleAI_C (SimpleAI3)
+[2018.08.06-16.58.58:073][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-16.58.58:552][764]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap8614C4D342A57035D50AD68117B6D71D.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.06-16.58.58:850][764]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_BuiltData176C99194DDCD10E6D22768403B49A0E.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.08.06-16.59.27:737][373]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-16.59.28:698][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-16.59.28:758][408]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI4DDF958446E366040E4C4BA32515CD8E.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-16.59.30:781][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-16.59.30:936][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.59.30:936][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-16.59.30:936][613]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 22:59:30)
+[2018.08.06-16.59.30:937][613]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-16.59.30:986][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049611s)
+[2018.08.06-16.59.31:017][613]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-16.59.31:018][613]LogPlayLevel: PIE: World Init took: (0.031881s)
+[2018.08.06-16.59.31:018][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.081759s)
+[2018.08.06-16.59.31:072][613]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-16.59.31:081][613]LogInit: FAudioDevice initialized.
+[2018.08.06-16.59.31:112][613]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-16.59.31:116][613]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-19.59.31
+[2018.08.06-16.59.31:118][613]LogWorld: Bringing up level for play took: 0.005285
+[2018.08.06-16.59.31:174][613]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,533
+[2018.08.06-16.59.31:175][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.59.59:247][965]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.59.59:254][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.59.59:313][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-16.59.59:314][965]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-16.59.59:363][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-16.59.59:386][966]LogPlayLevel: Display: Destroying online subsystem :Context_228
+[2018.08.06-17.05.46:681][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-17.05.53:549][542]BlueprintLog: New page: Compile SimpleAI
+[2018.08.06-17.05.54:271][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2018.08.06-17.05.54:357][564]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/SimpleAI33415A924DE4DE597BF5FBA132D208E9.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2018.08.06-17.05.56:240][764]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-17.05.56:400][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.05.56:400][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-17.05.56:400][764]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 23:05:56)
+[2018.08.06-17.05.56:401][764]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-17.05.56:412][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011089s)
+[2018.08.06-17.05.56:413][764]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-17.05.56:413][764]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.08.06-17.05.56:413][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012040s)
+[2018.08.06-17.05.56:471][764]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-17.05.56:478][764]LogInit: FAudioDevice initialized.
+[2018.08.06-17.05.56:511][764]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-17.05.56:516][764]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-20.05.56
+[2018.08.06-17.05.56:518][764]LogWorld: Bringing up level for play took: 0.005605
+[2018.08.06-17.05.56:532][764]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,825
+[2018.08.06-17.05.56:532][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.06.34:842][339]Set new viewmode: Wireframe
+[2018.08.06-17.06.37:851][700]Set new viewmode: Wireframe
+[2018.08.06-17.06.38:618][792]Set new viewmode: Unlit
+[2018.08.06-17.06.40:027][961]Set new viewmode: Lit
+[2018.08.06-17.06.40:937][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.06.40:945][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-17.06.40:985][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-17.06.40:986][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.06.41:035][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-17.06.41:056][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_229
+[2018.08.06-17.06.51:795][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-17.06.54:549][539]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.06-17.06.54:581][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.06.54:581][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.06-17.06.54:581][539]PIE: New page: PIE session: ThirdPersonExampleMap (6 авг. 2018 г., 23:06:54)
+[2018.08.06-17.06.54:582][539]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.06-17.06.54:594][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011981s)
+[2018.08.06-17.06.54:595][539]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.06-17.06.54:595][539]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2018.08.06-17.06.54:595][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013373s)
+[2018.08.06-17.06.54:649][539]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-17.06.54:657][539]LogInit: FAudioDevice initialized.
+[2018.08.06-17.06.54:689][539]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.06-17.06.54:693][539]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.06-20.06.54
+[2018.08.06-17.06.54:695][539]LogWorld: Bringing up level for play took: 0.005548
+[2018.08.06-17.06.54:710][539]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,004
+[2018.08.06-17.06.54:711][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.07.17:864][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.07.17:871][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-17.07.18:030][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.06-17.07.18:030][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.06-17.07.18:078][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.06-17.07.18:102][307]LogPlayLevel: Display: Destroying online subsystem :Context_230
+[2018.08.06-17.07.21:221][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.06-17.07.26:878][299]Cmd: TRANSACTION UNDO
+[2018.08.06-17.07.26:891][299]LogEditorTransaction: Undo Move Actors
+[2018.08.06-17.07.27:087][299]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.161 s
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: 
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2103]
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: 
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: Stack: 
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0fce7136 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0fa20c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0fa3b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0cdbf088 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9e4b75 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa1015b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9f6485 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:087][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa62d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0aaa9acd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0aa3c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9f58ec UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0a9ef526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2cd4b3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd11e177ce UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd11e17bee UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0c0524df UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0c09437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd11e271a2 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd11e17679 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0c0960e9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd0c089846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd3b24ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd3b240270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd3b24f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd3b23c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd6dd66cc1 USER32.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd6dd66693 USER32.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ffd3b250646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ff6085554e5 UE4Editor.exe!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ff608565b3c UE4Editor.exe!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ff608565bba UE4Editor.exe!UnknownFunction []
+[2018.08.06-17.07.27:088][299]LogOutputDevice: Error: [Callstack] 0x00007ff608573dac UE4Editor.exe!UnknownFunction []
+[2018.08.06-17.07.27:089][299]LogOutputDevice: Error: [Callstack] 0x00007ff608575aaa UE4Editor.exe!UnknownFunction []
+[2018.08.06-17.07.27:089][299]LogOutputDevice: Error: [Callstack] 0x00007ffd6fe93034 KERNEL32.DLL!UnknownFunction []
+[2018.08.06-17.07.27:089][299]LogOutputDevice: Error: [Callstack] 0x00007ffd70371431 ntdll.dll!UnknownFunction []
+[2018.08.06-17.07.27:089][299]LogOutputDevice: Error: 
+[2018.08.06-17.07.27:112][299]LogStats:                SubmitErrorReport -  0.016 s
+[2018.08.06-17.07.33:959][299]LogStats:                    SendNewReport -  6.846 s
+[2018.08.06-17.07.33:959][299]LogStats:             FDebug::EnsureFailed -  7.040 s
+[2018.08.06-17.07.34:638][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.06-17.07.34:767][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.06-17.07.54:582][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-17.07.55:035][636]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap35119AB044B332561447868DA0A59E52.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.08.06-17.07.55:200][636]LogSavePackage: Moving '../../../../../../Unreal Projects/test_ue4_rpg/Saved/ThirdPersonExampleMap_BuiltData871C9FED40BA127C640E4A80975952B6.tmp' to '../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
