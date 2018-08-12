@@ -1,0 +1,1868 @@
+﻿Log file open, 08/09/18 19:10:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: test_ue4_rpg
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.062857
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.089s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.018s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.09-16.10.40:613][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.09-16.10.40:614][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.09-16.10.40:662][  0]LogHAL: Display: Platform has ~ 8 GB [8523440128 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.09-16.10.40:671][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.09-16.10.40:671][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.09-16.10.40:704][  0]LogInit: Computer: DESKTOP-359PM8M
+[2018.08.09-16.10.40:704][  0]LogInit: User: Kira
+[2018.08.09-16.10.40:704][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.09-16.10.40:704][  0]LogInit: High frequency timer resolution =3.117189 MHz
+[2018.08.09-16.10.40:705][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.08.09-16.10.40:705][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.09-16.10.40:705][  0]LogMemory: Process Physical Memory: 100.45 MB used, 100.45 MB peak
+[2018.08.09-16.10.40:705][  0]LogMemory: Process Virtual Memory: 84.12 MB used, 84.12 MB peak
+[2018.08.09-16.10.40:705][  0]LogMemory: Physical Memory: 3483.00 MB used,  4645.58 MB free, 8128.59 MB total
+[2018.08.09-16.10.40:705][  0]LogMemory: Virtual Memory: 4619.21 MB used,  4645.58 MB free, 134217728.00 MB total
+[2018.08.09-16.10.41:115][  0]LogInit: Using OS detected language (ru-RU).
+[2018.08.09-16.10.41:115][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.08.09-16.10.41:130][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.08.09-16.10.41:186][  0]LogStreaming: Display: Took  0.055s to InitEngineTextLocalization.
+[2018.08.09-16.10.41:198][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.09-16.10.41:473][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.09-16.10.41:473][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.09-16.10.41:980][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.09-16.10.41:980][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.09-16.10.42:054][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.08.09-16.10.42:055][  0]LogD3D11RHI:       4018/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.09-16.10.42:057][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.09-16.10.42:057][  0]LogD3D11RHI:       0/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.09-16.10.42:057][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.09-16.10.42:066][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.09-16.10.42:066][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.09-16.10.42:084][  0]LogWindows: EnumDisplayDevices:
+[2018.08.09-16.10.42:084][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2018.08.09-16.10.42:084][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.09-16.10.42:085][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.09-16.10.42:085][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.08.09-16.10.42:085][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.08.09-16.10.42:085][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.08.09-16.10.42:085][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.08.09-16.10.42:085][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.08.09-16.10.42:085][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.08.09-16.10.42:138][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.09-16.10.42:355][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.09-16.10.42:454][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Unreal Projects/test_ue4_rpg/Intermediate/Shaders/WorkingDirectory/14724/).
+[2018.08.09-16.10.42:454][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kira/AppData/Local/Temp/UnrealShaderWorkingDir/B534DF68489AE12A1D76DFA50D8180CC/'.
+[2018.08.09-16.10.43:023][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.09-16.10.43:044][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.09-16.10.43:064][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.09-16.10.43:084][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.09-16.10.43:117][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.09-16.10.43:145][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.09-16.10.43:159][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.09-16.10.43:172][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.09-16.10.43:188][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:291][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.09-16.10.43:305][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.09-16.10.43:399][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.09-16.10.43:399][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.09-16.10.43:511][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.09-16.10.43:511][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.09-16.10.43:550][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.09-16.10.43:580][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.09-16.10.43:617][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.09-16.10.43:641][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.09-16.10.43:657][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.09-16.10.43:657][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.09-16.10.44:113][  0]LogXGEController: Cleaning working directory: C:/Users/Kira/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.09-16.10.44:114][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.09-16.10.44:114][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.09-16.10.44:114][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.09-16.10.46:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.09-16.10.46:482][  0]LogDerivedDataCache: Loaded boot cache 0.47s 71MB C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.09-16.10.46:482][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.09-16.10.46:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/test_ue4_rpg/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.09-16.10.46:482][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.09-16.10.46:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/test_ue4_rpg/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.09-16.10.46:482][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.09-16.10.46:613][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.09-16.10.46:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.09-16.10.46:626][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.09-16.10.46:626][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.09-16.10.46:669][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.09-16.10.46:720][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.09-16.10.46:748][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.09-16.10.47:161][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2018.08.09-16.10.49:242][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.09-16.10.50:749][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.09-16.10.50:869][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.09-16.10.50:870][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.09-16.10.50:871][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.09-16.10.50:871][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.09-16.10.51:501][  0]LogNetVersion: test_ue4_rpg 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3171448258)
+[2018.08.09-16.10.54:694][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.072125 seconds
+[2018.08.09-16.10.54:711][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.09-16.10.54:711][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.09-16.10.54:711][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.09-16.10.59:452][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.09-16.10.59:480][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.09-16.11.00:276][  0]SourceControl: Source control is disabled
+[2018.08.09-16.11.00:277][  0]SourceControl: Source control is disabled
+[2018.08.09-16.11.00:347][  0]SourceControl: Source control is disabled
+[2018.08.09-16.11.00:365][  0]SourceControl: Source control is disabled
+[2018.08.09-16.11.01:192][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.09-16.11.01:421][  0]LogOcInput: OculusInput pre-init called
+[2018.08.09-16.11.01:897][  0]LogEngine: Initializing Engine...
+[2018.08.09-16.11.01:921][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.09-16.11.01:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.09-16.11.01:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.09-16.11.01:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.09-16.11.01:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.09-16.11.02:493][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.09-16.11.02:808][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.09-16.11.03:013][  0]LogInit: XAudio2 using 'SONY TV  *00 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.09-16.11.03:046][  0]LogInit: FAudioDevice initialized.
+[2018.08.09-16.11.03:046][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.09-16.11.03:141][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Kira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.09-16.11.03:151][  0]LogInit: Texture streaming: Enabled
+[2018.08.09-16.11.03:240][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.09-16.11.03:349][  0]LogInit: Transaction tracking system initialized
+[2018.08.09-16.11.03:637][  0]BlueprintLog: New page: Editor Load
+[2018.08.09-16.11.04:412][  0]LocalizationService: Localization service is disabled
+[2018.08.09-16.11.06:261][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.09-16.11.06:261][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.09-16.11.06:274][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.09-16.11.06:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.09-16.11.06:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.09-16.11.06:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.09-16.11.06:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.09-16.11.07:430][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/' took 0.07s
+[2018.08.09-16.11.07:496][  0]SourceControl: Source control is disabled
+[2018.08.09-16.11.07:508][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/test_ue4_rpg/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.09-16.11.07:532][  0]LightingResults: New page: Lighting Build
+[2018.08.09-16.11.07:603][  0]MapCheck: New page: Map Check
+[2018.08.09-16.11.07:603][  0]LightingResults: New page: Lighting Build
+[2018.08.09-16.11.12:936][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.08.09-16.11.12:936][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.08.09-16.11.13:070][  0]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve FX_Meshes.
+[2018.08.09-16.11.13:070][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.08.09-16.11.14:546][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.09-16.11.15:032][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.09-16.11.15:241][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.09-16.11.16:141][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 899,345ms to complete.
+[2018.08.09-16.11.16:141][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.634
+[2018.08.09-16.11.17:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.09-16.11.17:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.09-16.11.17:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.09-16.11.17:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.09-16.11.17:424][  0]LogCollectionManager: Loaded 0 collections in 0.002219 seconds
+[2018.08.09-16.11.17:553][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Saved/Collections/' took 0.01s
+[2018.08.09-16.11.17:553][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/Developers/Kira/Collections/' took 0.01s
+[2018.08.09-16.11.17:553][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/test_ue4_rpg/Content/Collections/' took 0.01s
+[2018.08.09-16.11.17:553][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.09-16.11.17:578][  0]LogContentBrowser: Native class hierarchy populated in 0.0236 seconds. Added 2572 classes and 603 folders.
+[2018.08.09-16.11.17:654][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.09-16.11.18:090][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.08.09-16.11.18:645][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.09-16.11.18:934][  0]LogSlate: Took 0.013811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.09-16.11.18:975][  0]LogSlate: Took 0.009774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.09-16.11.19:301][  0]LogRenderer: Reallocating scene render targets to support 1300x924 Format 10 NumSamples 1 (Frame:1).
+[2018.08.09-16.11.19:745][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.09-16.11.19:745][  0]LogLoad: (Engine Initialization) Total time: 46.83 seconds
+[2018.08.09-16.11.19:745][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.09-16.11.19:765][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.09-16.11.19:889][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.09-16.11.20:172][  5]LogAssetRegistry: Asset discovery search completed in 33.0346 seconds
+[2018.08.09-16.11.20:174][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.09-16.11.20:174][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.08.09-16.11.29:255][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.11.29:272][ 77]LogSlate: Took 0.015977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.09-16.11.29:317][ 77]LogSlate: Took 0.012980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.09-16.11.57:262][214]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.09-16.11.57:334][214]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kira/Desktop/sim/sim.obj)
+[2018.08.09-16.11.57:430][214]LogFbx: Loading FBX Scene from C:/Users/Kira/Desktop/sim/sim.obj
+[2018.08.09-16.11.57:701][214]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.12.19:450][214]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -396547160.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -397655872.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.12.19:495][214]LogFbx: =================================================
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.12.19:495][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:495][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:495][214]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.12.19:495][214]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -396547160.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -397651008.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -396547160.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -397644160.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.12.19:496][214]LogFbx: =================================================
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.12.19:496][214]LogFbx: 	Total Deformer Count -394030384.
+[2018.08.09-16.12.19:496][214]LogFbx: 	Attribute () Type (4).
+[2018.08.09-16.12.19:496][214]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.12.19:496][214]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.12.19:890][214]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.12.19:892][214]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.12.19:990][214]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.12.19:990][214]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.12.19:990][214]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.12.19:991][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed0_diffuse'
+[2018.08.09-16.12.19:991][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed0_diffuse'
+[2018.08.09-16.12.20:201][214]LogTexture: Display: Building textures: sim_packed0_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.12.24:941][214]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.12.24:941][214]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.12.24:981][214]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.12.25:033][214]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.12.25:033][214]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.12.25:354][214]LogSkeletalMesh: Section 0: 8858 vertices, 1 active bones
+[2018.08.09-16.12.25:355][214]LogSkeletalMesh: Section 0: Material=0, 15159 triangles
+[2018.08.09-16.12.25:368][214]LogSkeletalMesh: Building Skeletal Mesh sim_Body...
+[2018.08.09-16.12.25:413][214]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Body
+[2018.08.09-16.12.25:417][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Body_Skeleton'
+[2018.08.09-16.12.25:417][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Body_Skeleton'
+[2018.08.09-16.12.25:418][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Body_PhysicsAsset'
+[2018.08.09-16.12.25:418][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Body_PhysicsAsset'
+[2018.08.09-16.12.25:450][214]LogSkeletalMesh: Building Skeletal Mesh sim_Body...
+[2018.08.09-16.12.25:493][214]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Body
+[2018.08.09-16.12.25:501][214]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.12.25:503][214]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.12.25:532][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed1_diffuse'
+[2018.08.09-16.12.25:532][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed1_diffuse'
+[2018.08.09-16.12.25:598][214]LogTexture: Display: Building textures: sim_packed1_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.12.26:612][214]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.08.09-16.12.26:620][214]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.12.26:648][214]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.12.26:669][214]LogSkeletalMesh: Section 0: 545 vertices, 1 active bones
+[2018.08.09-16.12.26:669][214]LogSkeletalMesh: Section 0: Material=0, 780 triangles
+[2018.08.09-16.12.26:669][214]LogSkeletalMesh: Building Skeletal Mesh sim_Bottoms...
+[2018.08.09-16.12.26:671][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Bottoms
+[2018.08.09-16.12.26:671][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Bottoms_Skeleton'
+[2018.08.09-16.12.26:671][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Bottoms_Skeleton'
+[2018.08.09-16.12.26:671][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Bottoms_PhysicsAsset'
+[2018.08.09-16.12.26:672][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Bottoms_PhysicsAsset'
+[2018.08.09-16.12.26:675][214]LogSkeletalMesh: Building Skeletal Mesh sim_Bottoms...
+[2018.08.09-16.12.26:676][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Bottoms
+[2018.08.09-16.12.26:676][214]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.12.26:677][214]LogSkeletalMesh: Section 0: 98 vertices, 1 active bones
+[2018.08.09-16.12.26:678][214]LogSkeletalMesh: Section 0: Material=0, 106 triangles
+[2018.08.09-16.12.26:678][214]LogSkeletalMesh: Building Skeletal Mesh sim_Eyelashes...
+[2018.08.09-16.12.26:678][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyelashes
+[2018.08.09-16.12.26:678][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyelashes_Skeleton'
+[2018.08.09-16.12.26:678][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyelashes_Skeleton'
+[2018.08.09-16.12.26:679][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyelashes_PhysicsAsset'
+[2018.08.09-16.12.26:679][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyelashes_PhysicsAsset'
+[2018.08.09-16.12.26:682][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.12.26:686][214]LogSkeletalMesh: Building Skeletal Mesh sim_Eyelashes...
+[2018.08.09-16.12.26:686][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyelashes
+[2018.08.09-16.12.26:688][214]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.12.26:713][214]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2018.08.09-16.12.26:713][214]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2018.08.09-16.12.26:713][214]LogSkeletalMesh: Building Skeletal Mesh sim_Eyes...
+[2018.08.09-16.12.26:715][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyes
+[2018.08.09-16.12.26:716][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyes_Skeleton'
+[2018.08.09-16.12.26:716][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyes_Skeleton'
+[2018.08.09-16.12.26:716][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyes_PhysicsAsset'
+[2018.08.09-16.12.26:717][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Eyes_PhysicsAsset'
+[2018.08.09-16.12.26:720][214]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.12.26:724][214]LogSkeletalMesh: Building Skeletal Mesh sim_Eyes...
+[2018.08.09-16.12.26:726][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyes
+[2018.08.09-16.12.26:727][214]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.12.26:741][214]LogSkeletalMesh: Section 0: 451 vertices, 1 active bones
+[2018.08.09-16.12.26:741][214]LogSkeletalMesh: Section 0: Material=0, 756 triangles
+[2018.08.09-16.12.26:742][214]LogSkeletalMesh: Building Skeletal Mesh sim_Hair...
+[2018.08.09-16.12.26:743][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Hair
+[2018.08.09-16.12.26:743][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Hair_Skeleton'
+[2018.08.09-16.12.26:743][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Hair_Skeleton'
+[2018.08.09-16.12.26:744][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Hair_PhysicsAsset'
+[2018.08.09-16.12.26:744][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Hair_PhysicsAsset'
+[2018.08.09-16.12.26:748][214]LogSkeletalMesh: Building Skeletal Mesh sim_Hair...
+[2018.08.09-16.12.26:749][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Hair
+[2018.08.09-16.12.26:751][214]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.12.26:812][214]LogSkeletalMesh: Section 0: 700 vertices, 1 active bones
+[2018.08.09-16.12.26:812][214]LogSkeletalMesh: Section 0: Material=0, 1112 triangles
+[2018.08.09-16.12.26:812][214]LogSkeletalMesh: Building Skeletal Mesh sim_Tops...
+[2018.08.09-16.12.26:813][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Tops
+[2018.08.09-16.12.26:814][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Tops_Skeleton'
+[2018.08.09-16.12.26:815][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Tops_Skeleton'
+[2018.08.09-16.12.26:815][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Tops_PhysicsAsset'
+[2018.08.09-16.12.26:815][214]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_Tops_PhysicsAsset'
+[2018.08.09-16.12.26:819][214]LogSkeletalMesh: Building Skeletal Mesh sim_Tops...
+[2018.08.09-16.12.26:820][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Tops
+[2018.08.09-16.12.26:857][214]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.09-16.12.26:857][214]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.12.26:857][214]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.12.26:857][214]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.12.26:857][214]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.12.26:858][214]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.12.26:858][214]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.12.26:859][214]LogSkeletalMesh: Building Skeletal Mesh sim_Tops...
+[2018.08.09-16.12.26:860][214]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Tops
+[2018.08.09-16.12.27:442][230]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.08.09-16.12.28:291][275]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.09-16.12.32:445][598]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.09-16.12.33:045][644]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.09-16.12.34:631][767]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.12.37:087][959]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.12.38:650][ 79]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.12.38:888][ 98]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.12.40:536][100]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.12.40:558][100]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.12.43:368][344]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Sin/sim_Body_Skeleton.sim_Body_Skeleton
+[2018.08.09-16.12.43:392][344]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.09-16.12.43:907][344]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.12.43:941][344]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.09-16.12.44:201][344]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.09-16.12.44:905][344]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.08.09-16.13.05:941][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.13.06:065][324]LogSlate: Window 'sim_Body_Skeleton*' being destroyed
+[2018.08.09-16.13.06:069][324]LogSlate: Window 'sim_Body_Skeleton*' being destroyed
+[2018.08.09-16.14.22:436][705]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.09-16.14.24:327][705]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.14.24:328][705]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.14.24:329][705]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.14.24:332][705]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.14.24:332][705]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.14.24:332][705]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.14.24:343][705]LogSkeletalMesh: Building Skeletal Mesh sim_Bottoms...
+[2018.08.09-16.14.24:344][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Bottoms
+[2018.08.09-16.14.24:346][705]LogSkeletalMesh: Building Skeletal Mesh sim_Bottoms...
+[2018.08.09-16.14.24:347][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Bottoms
+[2018.08.09-16.14.24:351][705]LogSkeletalMesh: Building Skeletal Mesh sim_Bottoms...
+[2018.08.09-16.14.24:352][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Bottoms
+[2018.08.09-16.14.24:353][705]LogSkeletalMesh: Building Skeletal Mesh sim_Tops...
+[2018.08.09-16.14.24:354][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Tops
+[2018.08.09-16.14.24:357][705]LogSkeletalMesh: Building Skeletal Mesh sim_Tops...
+[2018.08.09-16.14.24:359][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Tops
+[2018.08.09-16.14.24:359][705]LogSkeletalMesh: Building Skeletal Mesh sim_Tops...
+[2018.08.09-16.14.24:361][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Tops
+[2018.08.09-16.14.24:364][705]LogSkeletalMesh: Building Skeletal Mesh sim_Hair...
+[2018.08.09-16.14.24:365][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Hair
+[2018.08.09-16.14.24:366][705]LogSkeletalMesh: Building Skeletal Mesh sim_Hair...
+[2018.08.09-16.14.24:366][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Hair
+[2018.08.09-16.14.24:370][705]LogSkeletalMesh: Building Skeletal Mesh sim_Hair...
+[2018.08.09-16.14.24:371][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Hair
+[2018.08.09-16.14.24:374][705]LogSkeletalMesh: Building Skeletal Mesh sim_Eyes...
+[2018.08.09-16.14.24:376][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyes
+[2018.08.09-16.14.24:377][705]LogSkeletalMesh: Building Skeletal Mesh sim_Eyes...
+[2018.08.09-16.14.24:380][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyes
+[2018.08.09-16.14.24:383][705]LogSkeletalMesh: Building Skeletal Mesh sim_Eyes...
+[2018.08.09-16.14.24:385][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyes
+[2018.08.09-16.14.24:386][705]LogSkeletalMesh: Building Skeletal Mesh sim_Eyelashes...
+[2018.08.09-16.14.24:386][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyelashes
+[2018.08.09-16.14.24:387][705]LogSkeletalMesh: Building Skeletal Mesh sim_Eyelashes...
+[2018.08.09-16.14.24:387][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyelashes
+[2018.08.09-16.14.24:391][705]LogSkeletalMesh: Building Skeletal Mesh sim_Eyelashes...
+[2018.08.09-16.14.24:391][705]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Eyelashes
+[2018.08.09-16.14.24:392][705]LogSkeletalMesh: Building Skeletal Mesh sim_Body...
+[2018.08.09-16.14.24:440][705]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Body
+[2018.08.09-16.14.24:450][705]LogSkeletalMesh: Building Skeletal Mesh sim_Body...
+[2018.08.09-16.14.24:494][705]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Body
+[2018.08.09-16.14.24:504][705]LogSkeletalMesh: Building Skeletal Mesh sim_Body...
+[2018.08.09-16.14.24:548][705]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Blueprints/Sin/sim.sim_Body
+[2018.08.09-16.14.31:156][765]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kira\Desktop\sim\untitled.fbx)
+[2018.08.09-16.14.31:200][765]LogFbx: Loading FBX Scene from C:\Users\Kira\Desktop\sim\untitled.fbx
+[2018.08.09-16.14.31:273][765]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.14.51:477][765]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.09-16.14.51:557][765]LogFbx: =================================================
+[2018.08.09-16.14.51:557][765]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.14.51:557][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:557][765]LogFbx: 	Attribute (Eyes) Type (4).
+[2018.08.09-16.14.51:557][765]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.14.51:557][765]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.14.51:557][765]LogFbx: =================================================
+[2018.08.09-16.14.51:557][765]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.14.51:557][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:558][765]LogFbx: 	Attribute (Body) Type (4).
+[2018.08.09-16.14.51:558][765]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.14.51:558][765]LogFbx: =================================================
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.14.51:558][765]LogFbx: 	Total Deformer Count 1066096256.
+[2018.08.09-16.14.51:558][765]LogFbx: 	Attribute (Eyelashes) Type (4).
+[2018.08.09-16.14.51:558][765]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.14.51:558][765]LogFbx: =================================================
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.14.51:558][765]LogFbx: 	Total Deformer Count 477796680.
+[2018.08.09-16.14.51:558][765]LogFbx: 	Attribute (Bottoms) Type (4).
+[2018.08.09-16.14.51:558][765]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.14.51:558][765]LogFbx: =================================================
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.14.51:558][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:558][765]LogFbx: 	Attribute (Hair) Type (4).
+[2018.08.09-16.14.51:558][765]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.14.51:558][765]LogFbx: =================================================
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.14.51:558][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:558][765]LogFbx: 	Attribute (Tops) Type (4).
+[2018.08.09-16.14.51:558][765]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.14.51:558][765]LogFbx: =================================================
+[2018.08.09-16.14.51:558][765]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.14.51:558][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:558][765]LogFbx: 	Attribute (Eyes) Type (4).
+[2018.08.09-16.14.51:558][765]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.14.51:559][765]LogFbx: =================================================
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.14.51:559][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:559][765]LogFbx: 	Attribute (Body) Type (4).
+[2018.08.09-16.14.51:559][765]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.14.51:559][765]LogFbx: =================================================
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.14.51:559][765]LogFbx: 	Total Deformer Count 1066092672.
+[2018.08.09-16.14.51:559][765]LogFbx: 	Attribute (Eyelashes) Type (4).
+[2018.08.09-16.14.51:559][765]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.14.51:559][765]LogFbx: =================================================
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.14.51:559][765]LogFbx: 	Total Deformer Count 477796680.
+[2018.08.09-16.14.51:559][765]LogFbx: 	Attribute (Bottoms) Type (4).
+[2018.08.09-16.14.51:559][765]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.14.51:559][765]LogFbx: =================================================
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.14.51:559][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:559][765]LogFbx: 	Attribute (Hair) Type (4).
+[2018.08.09-16.14.51:559][765]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.14.51:559][765]LogFbx: =================================================
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.14.51:559][765]LogFbx: 	Total Deformer Count 1066588176.
+[2018.08.09-16.14.51:559][765]LogFbx: 	Attribute (Tops) Type (4).
+[2018.08.09-16.14.51:559][765]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.14.51:559][765]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.14.51:562][765]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.14.51:564][765]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.14.51:597][765]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.14.51:597][765]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.14.51:597][765]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.14.51:768][765]LogTexture: Display: Building textures: sim_packed0_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.14.56:516][765]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.14.56:516][765]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.14.56:533][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed0_normal'
+[2018.08.09-16.14.56:533][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed0_normal'
+[2018.08.09-16.14.56:663][765]LogTexture: Display: Building textures: sim_packed0_normal (BC5, 2048X2048)
+[2018.08.09-16.14.57:121][765]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.14.57:137][765]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.14.57:164][765]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.14.57:168][765]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.14.57:194][765]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2018.08.09-16.14.57:194][765]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2018.08.09-16.14.57:195][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.14.57:196][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.14.57:197][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyes_Skeleton'
+[2018.08.09-16.14.57:197][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyes_Skeleton'
+[2018.08.09-16.14.57:198][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyes_PhysicsAsset'
+[2018.08.09-16.14.57:198][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyes_PhysicsAsset'
+[2018.08.09-16.14.57:201][765]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.14.57:205][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.14.57:206][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.14.57:227][765]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.14.57:540][765]LogSkeletalMesh: Section 0: 8858 vertices, 1 active bones
+[2018.08.09-16.14.57:542][765]LogSkeletalMesh: Section 0: Material=0, 15159 triangles
+[2018.08.09-16.14.57:542][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.14.57:560][765]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.14.57:565][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Body_Skeleton'
+[2018.08.09-16.14.57:565][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Body_Skeleton'
+[2018.08.09-16.14.57:566][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Body_PhysicsAsset'
+[2018.08.09-16.14.57:566][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Body_PhysicsAsset'
+[2018.08.09-16.14.57:572][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.14.57:588][765]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.14.57:591][765]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.14.57:592][765]LogSkeletalMesh: Section 0: 98 vertices, 1 active bones
+[2018.08.09-16.14.57:592][765]LogSkeletalMesh: Section 0: Material=0, 106 triangles
+[2018.08.09-16.14.57:592][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.14.57:593][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.14.57:593][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyelashes_Skeleton'
+[2018.08.09-16.14.57:593][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyelashes_Skeleton'
+[2018.08.09-16.14.57:594][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyelashes_PhysicsAsset'
+[2018.08.09-16.14.57:594][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Eyelashes_PhysicsAsset'
+[2018.08.09-16.14.57:597][765]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.14.57:645][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.14.57:645][765]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.14.57:648][765]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.14.57:678][765]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.14.57:774][765]LogTexture: Display: Building textures: sim_packed1_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.14.58:801][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed1_normal'
+[2018.08.09-16.14.58:801][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sim_packed1_normal'
+[2018.08.09-16.14.58:877][765]LogTexture: Display: Building textures: sim_packed1_normal (BC5, 2048X2048)
+[2018.08.09-16.14.59:264][765]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.14.59:292][765]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.14.59:329][765]LogSkeletalMesh: Section 0: 545 vertices, 1 active bones
+[2018.08.09-16.14.59:329][765]LogSkeletalMesh: Section 0: Material=0, 780 triangles
+[2018.08.09-16.14.59:330][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.14.59:330][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.14.59:331][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Bottoms_Skeleton'
+[2018.08.09-16.14.59:331][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Bottoms_Skeleton'
+[2018.08.09-16.14.59:332][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Bottoms_PhysicsAsset'
+[2018.08.09-16.14.59:332][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Bottoms_PhysicsAsset'
+[2018.08.09-16.14.59:336][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.14.59:337][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.14.59:338][765]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.14.59:366][765]LogSkeletalMesh: Section 0: 451 vertices, 1 active bones
+[2018.08.09-16.14.59:366][765]LogSkeletalMesh: Section 0: Material=0, 756 triangles
+[2018.08.09-16.14.59:367][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.14.59:367][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.14.59:368][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Hair_Skeleton'
+[2018.08.09-16.14.59:368][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Hair_Skeleton'
+[2018.08.09-16.14.59:369][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Hair_PhysicsAsset'
+[2018.08.09-16.14.59:369][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Hair_PhysicsAsset'
+[2018.08.09-16.14.59:373][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.14.59:374][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.14.59:376][765]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.14.59:450][765]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.08.09-16.14.59:454][765]LogSkeletalMesh: Section 0: 700 vertices, 1 active bones
+[2018.08.09-16.14.59:454][765]LogSkeletalMesh: Section 0: Material=0, 1112 triangles
+[2018.08.09-16.14.59:455][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.14.59:456][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.14.59:456][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Tops_Skeleton'
+[2018.08.09-16.14.59:456][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Tops_Skeleton'
+[2018.08.09-16.14.59:457][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Tops_PhysicsAsset'
+[2018.08.09-16.14.59:457][765]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/untitled_Tops_PhysicsAsset'
+[2018.08.09-16.14.59:461][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.14.59:462][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.14.59:495][765]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.14.59:497][765]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.14.59:498][765]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.14.59:608][768]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.08.09-16.15.01:418][912]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.09-16.15.04:334][164]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.09-16.15.06:477][349]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.09-16.15.08:361][519]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.15.09:166][588]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.15.11:132][760]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.15.11:161][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.15.11:245][760]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.09-16.15.11:624][760]LogSlate: Took 0.014246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.09-16.15.11:729][760]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.15.12:192][806]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.15.16:026][141]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.15.18:808][422]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.15.34:483][  3]LogSlate: Window 'untitled_Body*' being destroyed
+[2018.08.09-16.15.34:486][  3]LogSlate: Window 'untitled_Body*' being destroyed
+[2018.08.09-16.15.47:829][314]Cmd: DELETE
+[2018.08.09-16.15.47:834][314]Cmd: ACTOR DELETE
+[2018.08.09-16.15.48:091][314]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.08.09-16.15.48:149][314]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2018.08.09-16.15.49:269][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.15.49:404][436]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.15.49:418][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.15.49:449][436]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.09-16.15.54:202][809]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Sin/untitled_Body_Skeleton.untitled_Body_Skeleton
+[2018.08.09-16.15.54:211][809]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.15.54:224][809]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.09-16.15.59:236][221]LogSlate: Window 'untitled_Body_Skeleton*' being destroyed
+[2018.08.09-16.15.59:239][221]LogSlate: Window 'untitled_Body_Skeleton*' being destroyed
+[2018.08.09-16.16.08:542][756]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.09-16.16.08:755][756]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.16.08:756][756]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.16.08:756][756]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.16.08:758][756]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.16.08:759][756]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.16.08:759][756]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.16.08:759][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.16.08:760][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.16.08:761][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.16.08:762][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.16.08:774][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.16.08:774][756]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.16.08:776][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.16.08:776][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.16.08:778][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.16.08:778][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.16.08:782][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.16.08:782][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.16.08:787][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.16.08:788][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.16.08:789][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.16.08:790][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.16.08:793][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.16.08:794][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.16.08:797][756]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.16.08:798][756]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.16.08:798][756]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.16.08:800][756]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.16.08:801][756]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.16.08:801][756]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.16.08:802][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.16.08:818][756]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.16.08:822][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.16.08:835][756]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.16.08:847][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.16.08:860][756]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.16.08:870][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.16.08:870][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.16.08:871][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.16.08:871][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.16.08:875][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.16.08:875][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.16.08:884][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.16.08:885][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.16.08:886][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.16.08:888][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.16.08:892][756]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.16.08:893][756]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.16.13:196][771]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kira\Desktop\sim\untitled.fbx)
+[2018.08.09-16.16.13:207][771]LogFbx: Loading FBX Scene from C:\Users\Kira\Desktop\sim\untitled.fbx
+[2018.08.09-16.16.13:229][771]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.16.35:148][771]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.09-16.16.35:164][771]LogFbx: =================================================
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.16.35:164][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:164][771]LogFbx: 	Attribute (Eyes) Type (4).
+[2018.08.09-16.16.35:164][771]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.16.35:164][771]LogFbx: =================================================
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.16.35:164][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:164][771]LogFbx: 	Attribute (Body) Type (4).
+[2018.08.09-16.16.35:164][771]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.16.35:164][771]LogFbx: =================================================
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.16.35:164][771]LogFbx: 	Total Deformer Count -146227968.
+[2018.08.09-16.16.35:164][771]LogFbx: 	Attribute (Eyelashes) Type (4).
+[2018.08.09-16.16.35:164][771]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.16.35:164][771]LogFbx: =================================================
+[2018.08.09-16.16.35:164][771]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.16.35:164][771]LogFbx: 	Total Deformer Count 55611024.
+[2018.08.09-16.16.35:164][771]LogFbx: 	Attribute (Bottoms) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Hair) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Tops) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Eyes) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Body) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -146228864.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Eyelashes) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count 55611024.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Bottoms) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Hair) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.16.35:165][771]LogFbx: =================================================
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.16.35:165][771]LogFbx: 	Total Deformer Count -402059216.
+[2018.08.09-16.16.35:165][771]LogFbx: 	Attribute (Tops) Type (4).
+[2018.08.09-16.16.35:165][771]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.16.35:165][771]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.16.35:167][771]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.16.35:169][771]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.16.35:367][771]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.16.35:367][771]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.16.35:367][771]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.16.35:371][771]LogTexture: Display: Building textures: sim_packed0_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.16.40:109][771]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.16.40:109][771]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.16.40:269][771]LogTexture: Display: Building textures: sim_packed0_normal (BC5, 2048X2048)
+[2018.08.09-16.16.40:776][771]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.16.40:805][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.16.40:834][771]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2018.08.09-16.16.40:834][771]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2018.08.09-16.16.40:835][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.16.40:836][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.16.40:921][771]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.16.40:955][771]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.16.41:850][771]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.16.42:410][771]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.16.43:407][771]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.16.43:607][771]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.16.47:817][771]LogSlate: Window 'Message' being destroyed
+[2018.08.09-16.16.47:851][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/MageCharacter/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2018.08.09-16.16.47:852][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.Standing_Walk_Forward_inPlace
+[2018.08.09-16.16.47:852][771]LogAnimationCompression: Compression Requested for Empty Animation Standing_Walk_Forward_inPlace
+[2018.08.09-16.16.47:852][771]LogAnimationCompression: Compression Requested for Empty Animation Standing_Walk_Forward_inPlace
+[2018.08.09-16.16.49:619][771]LogSlate: Window 'Message' being destroyed
+[2018.08.09-16.17.00:529][771]LogSlate: Window 'Message' being destroyed
+[2018.08.09-16.17.00:542][771]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_28:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.17.00:545][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.17.00:547][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.17.00:567][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.17.00:860][771]LogSkeletalMesh: Section 0: 8858 vertices, 1 active bones
+[2018.08.09-16.17.00:861][771]LogSkeletalMesh: Section 0: Material=0, 15159 triangles
+[2018.08.09-16.17.00:862][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.17.00:877][771]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.17.00:881][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/MageCharacter/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2018.08.09-16.17.00:881][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.AnimSequence_0
+[2018.08.09-16.17.00:881][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_0
+[2018.08.09-16.17.00:881][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_0
+[2018.08.09-16.17.00:891][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.17.00:906][771]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.17.00:910][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.17.00:911][771]LogSkeletalMesh: Section 0: 98 vertices, 1 active bones
+[2018.08.09-16.17.00:911][771]LogSkeletalMesh: Section 0: Material=0, 106 triangles
+[2018.08.09-16.17.00:912][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.17.00:912][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.17.00:913][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/MageCharacter/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2018.08.09-16.17.00:913][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.AnimSequence_1
+[2018.08.09-16.17.00:913][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_1
+[2018.08.09-16.17.00:913][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_1
+[2018.08.09-16.17.00:919][771]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.17.00:922][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.17.00:922][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.17.00:924][771]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.17.00:927][771]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.17.01:016][771]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.17.01:016][771]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.17.01:016][771]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.17.01:020][771]LogTexture: Display: Building textures: sim_packed1_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.17.02:134][771]LogTexture: Display: Building textures: sim_packed1_normal (BC5, 2048X2048)
+[2018.08.09-16.17.02:528][771]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.17.02:581][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.17.02:610][771]LogSkeletalMesh: Section 0: 545 vertices, 1 active bones
+[2018.08.09-16.17.02:610][771]LogSkeletalMesh: Section 0: Material=0, 780 triangles
+[2018.08.09-16.17.02:610][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.17.02:611][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.17.02:612][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/MageCharacter/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2018.08.09-16.17.02:612][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.AnimSequence_2
+[2018.08.09-16.17.02:612][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_2
+[2018.08.09-16.17.02:612][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_2
+[2018.08.09-16.17.02:618][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.17.02:619][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.17.02:621][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.17.02:635][771]LogSkeletalMesh: Section 0: 451 vertices, 1 active bones
+[2018.08.09-16.17.02:635][771]LogSkeletalMesh: Section 0: Material=0, 756 triangles
+[2018.08.09-16.17.02:645][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.17.02:645][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.17.02:646][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/MageCharacter/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2018.08.09-16.17.02:647][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.AnimSequence_3
+[2018.08.09-16.17.02:647][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_3
+[2018.08.09-16.17.02:647][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_3
+[2018.08.09-16.17.02:653][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.17.02:654][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.17.02:656][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.17.02:739][771]LogSkeletalMesh: Section 0: 700 vertices, 1 active bones
+[2018.08.09-16.17.02:739][771]LogSkeletalMesh: Section 0: Material=0, 1112 triangles
+[2018.08.09-16.17.02:740][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.17.02:741][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.17.02:741][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/MageCharacter/Animations/Standing_Walk_Forward_inPlace.Standing_Walk_Forward_inPlace
+[2018.08.09-16.17.02:741][771]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.AnimSequence_4
+[2018.08.09-16.17.02:741][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_4
+[2018.08.09-16.17.02:741][771]LogAnimationCompression: Compression Requested for Empty Animation AnimSequence_4
+[2018.08.09-16.17.02:749][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.17.02:749][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.17.02:754][771]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.17.02:758][771]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.17.02:759][771]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.17.03:774][841]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.17.04:478][899]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.17.05:468][992]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.17.06:621][ 81]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.17.08:485][257]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.17.08:685][279]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.17.14:153][528]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.09-16.17.14:322][528]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.17.14:323][528]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.17.14:323][528]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.17.14:325][528]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.17.14:326][528]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.17.14:326][528]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.17.14:327][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.17.14:328][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.17.14:331][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Tops...
+[2018.08.09-16.17.14:332][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Tops
+[2018.08.09-16.17.14:333][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.17.14:334][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.17.14:335][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Hair...
+[2018.08.09-16.17.14:335][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Hair
+[2018.08.09-16.17.14:339][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.17.14:340][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.17.14:341][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Bottoms...
+[2018.08.09-16.17.14:342][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Bottoms
+[2018.08.09-16.17.14:346][528]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.17.14:346][528]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.17.14:346][528]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.17.14:349][528]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.17.14:349][528]LogMaterial: Warning: /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.09-16.17.14:349][528]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.09-16.17.14:350][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.17.14:366][528]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.17.14:369][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Body...
+[2018.08.09-16.17.14:383][528]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Body
+[2018.08.09-16.17.14:392][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.17.14:392][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.17.14:393][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyelashes...
+[2018.08.09-16.17.14:393][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyelashes
+[2018.08.09-16.17.14:396][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.17.14:397][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.17.14:398][528]LogSkeletalMesh: Building Skeletal Mesh untitled_Eyes...
+[2018.08.09-16.17.14:399][528]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/untitled.untitled_Eyes
+[2018.08.09-16.18.18:711][128]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kira/Desktop/sim/untitled.fbx)
+[2018.08.09-16.18.18:722][128]LogFbx: Loading FBX Scene from C:/Users/Kira/Desktop/sim/untitled.fbx
+[2018.08.09-16.18.18:746][128]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.18.28:160][128]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.09-16.18.38:123][456]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Kira\Desktop\sim\sin.fbx)
+[2018.08.09-16.18.38:134][456]LogFbx: Loading FBX Scene from C:\Users\Kira\Desktop\sim\sin.fbx
+[2018.08.09-16.18.38:155][456]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.18.53:639][456]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Eyes) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Body) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count 26221248.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Eyelashes) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count 2022002096.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Bottoms) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Hair) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Tops) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:679][456]LogFbx: 	Attribute (Eyes) Type (4).
+[2018.08.09-16.18.53:679][456]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.18.53:679][456]LogFbx: =================================================
+[2018.08.09-16.18.53:679][456]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.18.53:679][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:680][456]LogFbx: 	Attribute (Body) Type (4).
+[2018.08.09-16.18.53:680][456]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.18.53:680][456]LogFbx: =================================================
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.18.53:680][456]LogFbx: 	Total Deformer Count -151897216.
+[2018.08.09-16.18.53:680][456]LogFbx: 	Attribute (Eyelashes) Type (4).
+[2018.08.09-16.18.53:680][456]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.18.53:680][456]LogFbx: =================================================
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node START [Bottoms] 
+[2018.08.09-16.18.53:680][456]LogFbx: 	Total Deformer Count 2022002096.
+[2018.08.09-16.18.53:680][456]LogFbx: 	Attribute (Bottoms) Type (4).
+[2018.08.09-16.18.53:680][456]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node END [Bottoms]
+[2018.08.09-16.18.53:680][456]LogFbx: =================================================
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.18.53:680][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:680][456]LogFbx: 	Attribute (Hair) Type (4).
+[2018.08.09-16.18.53:680][456]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.18.53:680][456]LogFbx: =================================================
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node START [Tops] 
+[2018.08.09-16.18.53:680][456]LogFbx: 	Total Deformer Count -402051632.
+[2018.08.09-16.18.53:680][456]LogFbx: 	Attribute (Tops) Type (4).
+[2018.08.09-16.18.53:680][456]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.08.09-16.18.53:680][456]LogFbx: Dumping Node END [Tops]
+[2018.08.09-16.18.53:682][456]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.18.53:685][456]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.18.53:878][456]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.18.53:878][456]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.18.53:878][456]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.18.53:885][456]LogTexture: Display: Building textures: sim_packed0_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.18.58:606][456]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.18.58:606][456]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.18.58:755][456]LogTexture: Display: Building textures: sim_packed0_normal (BC5, 2048X2048)
+[2018.08.09-16.18.59:231][456]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.18.59:234][456]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.18.59:265][456]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.18.59:290][456]LogSkeletalMesh: Section 0: 804 vertices, 1 active bones
+[2018.08.09-16.18.59:290][456]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2018.08.09-16.18.59:291][456]LogSkeletalMesh: Building Skeletal Mesh sin_Eyes...
+[2018.08.09-16.18.59:302][456]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Eyes
+[2018.08.09-16.18.59:303][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyes_Skeleton'
+[2018.08.09-16.18.59:303][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyes_Skeleton'
+[2018.08.09-16.18.59:304][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyes_PhysicsAsset'
+[2018.08.09-16.18.59:304][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyes_PhysicsAsset'
+[2018.08.09-16.18.59:307][456]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_36:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.18.59:311][456]LogSkeletalMesh: Building Skeletal Mesh sin_Eyes...
+[2018.08.09-16.18.59:313][456]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.18.59:313][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Eyes
+[2018.08.09-16.18.59:334][456]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.18.59:639][456]LogSkeletalMesh: Section 0: 8858 vertices, 1 active bones
+[2018.08.09-16.18.59:640][456]LogSkeletalMesh: Section 0: Material=0, 15159 triangles
+[2018.08.09-16.18.59:641][456]LogSkeletalMesh: Building Skeletal Mesh sin_Body...
+[2018.08.09-16.18.59:657][456]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Body
+[2018.08.09-16.18.59:661][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Body_Skeleton'
+[2018.08.09-16.18.59:661][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Body_Skeleton'
+[2018.08.09-16.18.59:662][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Body_PhysicsAsset'
+[2018.08.09-16.18.59:662][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Body_PhysicsAsset'
+[2018.08.09-16.18.59:670][456]LogSkeletalMesh: Building Skeletal Mesh sin_Body...
+[2018.08.09-16.18.59:686][456]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Body
+[2018.08.09-16.18.59:689][456]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.18.59:690][456]LogSkeletalMesh: Section 0: 98 vertices, 1 active bones
+[2018.08.09-16.18.59:691][456]LogSkeletalMesh: Section 0: Material=0, 106 triangles
+[2018.08.09-16.18.59:691][456]LogSkeletalMesh: Building Skeletal Mesh sin_Eyelashes...
+[2018.08.09-16.18.59:691][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Eyelashes
+[2018.08.09-16.18.59:692][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyelashes_Skeleton'
+[2018.08.09-16.18.59:692][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyelashes_Skeleton'
+[2018.08.09-16.18.59:692][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyelashes_PhysicsAsset'
+[2018.08.09-16.18.59:692][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Eyelashes_PhysicsAsset'
+[2018.08.09-16.18.59:696][456]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_39:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.18.59:700][456]LogSkeletalMesh: Building Skeletal Mesh sin_Eyelashes...
+[2018.08.09-16.18.59:700][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Eyelashes
+[2018.08.09-16.18.59:702][456]LogMaterial: Warning: Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.09-16.18.59:704][456]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.18.59:806][456]LogTexture: Display: Building textures: sim_packed1_diffuse (AutoDXT, 2048X2048)
+[2018.08.09-16.19.00:931][456]LogTexture: Display: Building textures: sim_packed1_normal (BC5, 2048X2048)
+[2018.08.09-16.19.01:347][456]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.19.01:402][456]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.19.01:435][456]LogSkeletalMesh: Section 0: 545 vertices, 1 active bones
+[2018.08.09-16.19.01:435][456]LogSkeletalMesh: Section 0: Material=0, 780 triangles
+[2018.08.09-16.19.01:435][456]LogSkeletalMesh: Building Skeletal Mesh sin_Bottoms...
+[2018.08.09-16.19.01:436][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Bottoms
+[2018.08.09-16.19.01:437][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Bottoms_Skeleton'
+[2018.08.09-16.19.01:437][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Bottoms_Skeleton'
+[2018.08.09-16.19.01:438][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Bottoms_PhysicsAsset'
+[2018.08.09-16.19.01:438][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Bottoms_PhysicsAsset'
+[2018.08.09-16.19.01:442][456]LogSkeletalMesh: Building Skeletal Mesh sin_Bottoms...
+[2018.08.09-16.19.01:442][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Bottoms
+[2018.08.09-16.19.01:444][456]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.19.01:458][456]LogSkeletalMesh: Section 0: 451 vertices, 1 active bones
+[2018.08.09-16.19.01:458][456]LogSkeletalMesh: Section 0: Material=0, 756 triangles
+[2018.08.09-16.19.01:459][456]LogSkeletalMesh: Building Skeletal Mesh sin_Hair...
+[2018.08.09-16.19.01:460][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Hair
+[2018.08.09-16.19.01:461][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Hair_Skeleton'
+[2018.08.09-16.19.01:461][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Hair_Skeleton'
+[2018.08.09-16.19.01:461][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Hair_PhysicsAsset'
+[2018.08.09-16.19.01:462][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Hair_PhysicsAsset'
+[2018.08.09-16.19.01:465][456]LogSkeletalMesh: Building Skeletal Mesh sin_Hair...
+[2018.08.09-16.19.01:466][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Hair
+[2018.08.09-16.19.01:468][456]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.08.09-16.19.01:560][456]LogSkeletalMesh: Section 0: 700 vertices, 1 active bones
+[2018.08.09-16.19.01:560][456]LogSkeletalMesh: Section 0: Material=0, 1112 triangles
+[2018.08.09-16.19.01:561][456]LogSkeletalMesh: Building Skeletal Mesh sin_Tops...
+[2018.08.09-16.19.01:562][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Tops
+[2018.08.09-16.19.01:563][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Tops_Skeleton'
+[2018.08.09-16.19.01:563][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Tops_Skeleton'
+[2018.08.09-16.19.01:563][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Tops_PhysicsAsset'
+[2018.08.09-16.19.01:563][456]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/sin_Tops_PhysicsAsset'
+[2018.08.09-16.19.01:567][456]LogSkeletalMesh: Building Skeletal Mesh sin_Tops...
+[2018.08.09-16.19.01:568][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Tops
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.19.01:573][456]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.09-16.19.01:575][456]LogSkeletalMesh: Building Skeletal Mesh sin_Tops...
+[2018.08.09-16.19.01:576][456]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Tops
+[2018.08.09-16.19.01:836][458]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.08.09-16.19.01:860][461]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.08.09-16.19.03:249][613]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.09-16.19.05:072][817]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.09-16.19.06:598][985]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.09-16.19.07:711][ 84]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Bottoms
+[2018.08.09-16.19.07:726][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.19.07:746][ 84]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.09-16.19.07:981][ 84]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.19.08:886][156]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.19.13:197][564]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.19.14:865][730]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.19.17:910][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.19.17:993][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.19.18:038][  1]LogSlate: Window 'sin_Bottoms*' being destroyed
+[2018.08.09-16.19.18:041][  1]LogSlate: Window 'sin_Bottoms*' being destroyed
+[2018.08.09-16.19.18:545][ 12]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.19.20:779][208]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Sin/sin.sin_Body
+[2018.08.09-16.19.20:791][208]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.19.20:810][208]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.09-16.19.32:642][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.19.35:133][533]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/ThirdPersonBP/Blueprints/Sin/sin_Body_PhysicsAsset.sin_Body_PhysicsAsset
+[2018.08.09-16.19.35:163][533]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2018.08.09-16.19.35:182][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.19.35:505][533]LogSlate: Took 0.014321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.09-16.19.37:902][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.19.43:243][238]LogSlate: Window 'sin_Body_PhysicsAsset*' being destroyed
+[2018.08.09-16.19.43:245][238]LogSlate: Window 'sin_Body_PhysicsAsset*' being destroyed
+[2018.08.09-16.19.46:591][525]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial0.PackedMaterial0
+[2018.08.09-16.19.46:639][525]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.19.46:833][525]LogMaterial: Display: Missing cached shader map for material PackedMaterial0, compiling. 
+[2018.08.09-16.19.46:865][525]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.08.09-16.19.46:865][525]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.08.09-16.19.46:865][525]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.08.09-16.19.46:890][525]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.09-16.19.46:895][525]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.08.09-16.19.47:279][527]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.19.47:388][536]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.08.09-16.19.47:388][536]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.08.09-16.19.47:705][570]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.08.09-16.19.47:758][576]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.09-16.19.47:890][590]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.08.09-16.19.48:125][616]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.08.09-16.19.48:192][623]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.08.09-16.19.48:324][636]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.09-16.19.48:928][704]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.09-16.19.49:055][718]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.19.49:379][754]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.09-16.19.49:858][807]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.09-16.19.50:201][846]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.09-16.19.50:328][860]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.09-16.19.50:775][911]LogSlate: Window 'PackedMaterial0*' being destroyed
+[2018.08.09-16.19.50:777][911]LogSlate: Window 'PackedMaterial0*' being destroyed
+[2018.08.09-16.19.50:797][911]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.09-16.19.50:844][911]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.19.50:911][914]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.09-16.19.51:314][955]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.09-16.19.51:364][960]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.09-16.19.51:510][972]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.09-16.19.51:791][998]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.09-16.19.51:823][  1]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.09-16.19.51:881][  6]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Sin/PackedMaterial1.PackedMaterial1
+[2018.08.09-16.19.51:884][  6]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.19.51:940][  6]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.09-16.19.51:954][  6]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.19.51:984][  6]LogMaterial: Display: Missing cached shader map for material PackedMaterial1, compiling. 
+[2018.08.09-16.19.52:039][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.08.09-16.19.52:044][  6]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.08.09-16.19.52:083][  6]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.08.09-16.19.52:104][  6]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.08.09-16.19.52:158][  6]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.08.09-16.19.52:635][ 59]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.08.09-16.19.53:162][117]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.08.09-16.19.53:241][126]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.09-16.19.53:241][126]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.08.09-16.19.53:283][130]LogSlate: Window 'PackedMaterial1*' being destroyed
+[2018.08.09-16.19.53:285][130]LogSlate: Window 'PackedMaterial1*' being destroyed
+[2018.08.09-16.19.53:599][156]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.08.09-16.19.53:780][172]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.08.09-16.19.54:032][194]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.08.09-16.19.54:370][225]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.08.09-16.19.54:373][225]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Blueprints/Sin/sim_packed0_diffuse.sim_packed0_diffuse
+[2018.08.09-16.19.54:397][225]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.09-16.19.54:498][225]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.09-16.19.54:498][225]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.08.09-16.19.54:979][277]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.08.09-16.19.55:083][289]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.08.09-16.19.55:083][289]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.08.09-16.19.55:428][323]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.08.09-16.19.55:442][323]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.08.09-16.19.55:478][324]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.08.09-16.19.55:645][339]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.08.09-16.19.55:663][341]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.08.09-16.19.55:747][350]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.09-16.19.55:902][366]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.08.09-16.19.56:299][406]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.08.09-16.19.56:383][415]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.08.09-16.19.56:425][419]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.08.09-16.19.56:795][457]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.08.09-16.19.56:920][470]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.08.09-16.19.57:010][479]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.08.09-16.19.57:416][525]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.08.09-16.19.57:529][538]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.08.09-16.19.57:732][561]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.09-16.19.58:024][594]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.08.09-16.19.58:171][611]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.08.09-16.19.58:222][616]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.08.09-16.19.58:427][639]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.08.09-16.19.58:584][657]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.08.09-16.19.58:584][657]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.08.09-16.19.58:682][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-16.19.58:786][680]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.08.09-16.19.58:786][680]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.08.09-16.19.58:786][680]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.08.09-16.19.58:816][682]LogSlate: Window 'sim_packed0_diffuse*' being destroyed
+[2018.08.09-16.19.58:818][682]LogSlate: Window 'sim_packed0_diffuse*' being destroyed
+[2018.08.09-16.19.58:953][693]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.09-16.19.59:006][699]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.08.09-16.19.59:024][701]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.08.09-16.19.59:581][751]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.08.09-16.19.59:809][770]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.08.09-16.19.59:814][771]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.08.09-16.20.00:187][809]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.08.09-16.20.00:229][814]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.08.09-16.20.00:770][862]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.08.09-16.20.00:984][880]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.09-16.20.01:076][888]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.09-16.20.01:196][898]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.08.09-16.20.01:350][912]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/ThirdPersonBP/Blueprints/Sin/sin_Hair_PhysicsAsset.sin_Hair_PhysicsAsset
+[2018.08.09-16.20.01:361][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.08.09-16.20.01:556][912]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.08.09-16.20.01:556][912]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.08.09-16.20.01:628][912]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.08.09-16.20.02:054][954]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.08.09-16.20.02:058][954]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.08.09-16.20.02:142][962]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.08.09-16.20.02:511][997]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.08.09-16.20.02:562][  2]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.09-16.20.02:608][  6]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.09-16.20.02:974][ 41]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.08.09-16.20.03:466][ 88]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.08.09-16.20.03:542][ 95]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.08.09-16.20.03:594][100]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.08.09-16.20.04:125][150]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.08.09-16.20.04:349][171]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.08.09-16.20.04:422][178]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.08.09-16.20.05:032][236]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.09-16.20.05:064][239]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.09-16.20.05:332][265]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.09-16.20.05:799][309]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.08.09-16.20.05:935][322]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.08.09-16.20.05:954][324]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.08.09-16.20.06:345][361]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.08.09-16.20.06:451][371]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.08.09-16.20.06:460][372]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.08.09-16.20.06:774][401]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.08.09-16.20.06:828][406]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.09-16.20.06:879][411]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.09-16.20.07:123][434]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.09-16.20.07:698][489]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.08.09-16.20.07:723][491]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.08.09-16.20.07:785][497]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.08.09-16.20.08:368][552]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.08.09-16.20.08:621][576]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.08.09-16.20.08:630][577]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.08.09-16.20.09:152][626]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.08.09-16.20.09:282][638]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.09-16.20.09:579][666]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.09-16.20.12:402][937]LogSlate: Window 'sin_Hair_PhysicsAsset*' being destroyed
+[2018.08.09-16.20.12:405][937]LogSlate: Window 'sin_Hair_PhysicsAsset*' being destroyed
+[2018.08.09-16.20.29:450][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Kira/Desktop/sin/Новая папка/Catwalk Twist R To Twist L.fbx)
+[2018.08.09-16.20.29:464][923]LogFbx: Loading FBX Scene from C:/Users/Kira/Desktop/sin/Новая папка/Catwalk Twist R To Twist L.fbx
+[2018.08.09-16.20.29:560][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.20.37:038][923]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.20.37:066][923]LogFbx: 	Total Deformer Count 2016717904.
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.20.37:066][923]LogFbx: 	Total Deformer Count 2016717904.
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.20.37:066][923]LogFbx: 	Total Deformer Count 58202048.
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.20.37:066][923]LogFbx: 	Total Deformer Count 2016717904.
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:066][923]LogFbx: =================================================
+[2018.08.09-16.20.37:066][923]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.08.09-16.20.37:066][923]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.20.37:066][923]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node START [Body] 
+[2018.08.09-16.20.37:067][923]LogFbx: 	Total Deformer Count 2016717904.
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node END [Body]
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node START [Eyes] 
+[2018.08.09-16.20.37:067][923]LogFbx: 	Total Deformer Count 2016717904.
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node END [Eyes]
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node START [Eyelashes] 
+[2018.08.09-16.20.37:067][923]LogFbx: 	Total Deformer Count 58204480.
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node END [Eyelashes]
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node START [Hair] 
+[2018.08.09-16.20.37:067][923]LogFbx: 	Total Deformer Count 2016717904.
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.37:067][923]LogFbx: =================================================
+[2018.08.09-16.20.37:067][923]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.08.09-16.20.37:067][923]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.08.09-16.20.37:067][923]LogFbx: Dumping Node END [Hair]
+[2018.08.09-16.20.37:094][923]LogFbx: Valid bind pose for Pose (BindPose) - Body
+[2018.08.09-16.20.37:132][923]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.08.09-16.20.37:489][923]LogSkeletalMesh: Section 0: 10911 vertices, 52 active bones
+[2018.08.09-16.20.37:490][923]LogSkeletalMesh: Section 0: Material=0, 19013 triangles
+[2018.08.09-16.20.37:492][923]LogSkeletalMesh: Building Skeletal Mesh Catwalk_Twist_R_To_Twist_L...
+[2018.08.09-16.20.37:541][923]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Catwalk_Twist_R_To_Twist_L.Catwalk_Twist_R_To_Twist_L
+[2018.08.09-16.20.39:132][923]LogSlate: Window 'Message' being destroyed
+[2018.08.09-16.20.41:665][923]LogSlate: Window 'Message' being destroyed
+[2018.08.09-16.20.48:194][923]LogSlate: Window 'Message' being destroyed
+[2018.08.09-16.20.48:203][923]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/animations/Catwalk_Twist_R_To_Twist_L_PhysicsAsset'
+[2018.08.09-16.20.48:203][923]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/animations/Catwalk_Twist_R_To_Twist_L_PhysicsAsset'
+[2018.08.09-16.20.48:250][923]LogSkeletalMesh: Building Skeletal Mesh Catwalk_Twist_R_To_Twist_L...
+[2018.08.09-16.20.48:299][923]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Catwalk_Twist_R_To_Twist_L.Catwalk_Twist_R_To_Twist_L
+[2018.08.09-16.20.48:320][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.09-16.20.48:320][923]FBXImport: Warning: Warning skeletal mesh influence count of 9 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2018.08.09-16.20.48:323][923]LogSkeletalMesh: Building Skeletal Mesh Catwalk_Twist_R_To_Twist_L...
+[2018.08.09-16.20.48:370][923]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Catwalk_Twist_R_To_Twist_L.Catwalk_Twist_R_To_Twist_L
+[2018.08.09-16.20.48:397][923]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:/Users/Kira/Desktop/sin/Новая папка/Flip Kick.fbx)
+[2018.08.09-16.20.48:423][923]LogFbx: Loading FBX Scene from C:/Users/Kira/Desktop/sin/Новая папка/Flip Kick.fbx
+[2018.08.09-16.20.48:475][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.20.48:475][923]LogFbx: =================================================
+[2018.08.09-16.20.48:475][923]LogFbx: Dumping Node START [Text001] 
+[2018.08.09-16.20.48:475][923]LogFbx: 	Total Deformer Count -1735935968.
+[2018.08.09-16.20.48:475][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:475][923]LogFbx: =================================================
+[2018.08.09-16.20.48:475][923]LogFbx: 	Attribute (Text001mesh) Type (4).
+[2018.08.09-16.20.48:475][923]LogFbx: 		[Node Attribute Child 1] Text001 (Type Mesh).
+[2018.08.09-16.20.48:475][923]LogFbx: Dumping Node END [Text001]
+[2018.08.09-16.20.48:475][923]LogFbx: =================================================
+[2018.08.09-16.20.48:475][923]LogFbx: Dumping Node START [ZoeEuropolisBody] 
+[2018.08.09-16.20.48:475][923]LogFbx: 	Total Deformer Count -142602832.
+[2018.08.09-16.20.48:475][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:475][923]LogFbx: =================================================
+[2018.08.09-16.20.48:475][923]LogFbx: 	Attribute (ZoeEuropolisBodymesh) Type (4).
+[2018.08.09-16.20.48:475][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisBody (Type Mesh).
+[2018.08.09-16.20.48:475][923]LogFbx: Dumping Node END [ZoeEuropolisBody]
+[2018.08.09-16.20.48:475][923]LogFbx: =================================================
+[2018.08.09-16.20.48:475][923]LogFbx: Dumping Node START [Object001] 
+[2018.08.09-16.20.48:475][923]LogFbx: 	Total Deformer Count 2022754048.
+[2018.08.09-16.20.48:475][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:475][923]LogFbx: =================================================
+[2018.08.09-16.20.48:475][923]LogFbx: 	Attribute (Object001mesh) Type (4).
+[2018.08.09-16.20.48:475][923]LogFbx: 		[Node Attribute Child 1] Object001 (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [Object001]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [Object002] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count 2022754048.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (Object002mesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] Object002 (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [Object002]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [Object003] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count 2022754048.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (Object003mesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] Object003 (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [Object003]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [Object004] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count 2022754048.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (Object004mesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] Object004 (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [Object004]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [ZoeEuropolisHairPonyTail] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count 2009101136.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (ZoeEuropolisHairPonyTailmesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHairPonyTail (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [ZoeEuropolisHairPonyTail]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [ZoeEuropolisHair] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count -142604592.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (ZoeEuropolisHairmesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHair (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [ZoeEuropolisHair]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [Object005] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count 7248512.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (Object005mesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] Object005 (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [Object005]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node START [Object006] 
+[2018.08.09-16.20.48:476][923]LogFbx: 	Total Deformer Count 7248512.
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:476][923]LogFbx: 	Attribute (Object006mesh) Type (4).
+[2018.08.09-16.20.48:476][923]LogFbx: 		[Node Attribute Child 1] Object006 (Type Mesh).
+[2018.08.09-16.20.48:476][923]LogFbx: Dumping Node END [Object006]
+[2018.08.09-16.20.48:476][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [Text001] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count -1735934848.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (Text001mesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] Text001 (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [Text001]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [ZoeEuropolisBody] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count -142597232.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (ZoeEuropolisBodymesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisBody (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [ZoeEuropolisBody]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [Object001] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count 7244480.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (Object001mesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] Object001 (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [Object001]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [Object002] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count 7244480.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (Object002mesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] Object002 (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [Object002]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [Object003] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count 7244480.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (Object003mesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] Object003 (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [Object003]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [Object004] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count 7244480.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (Object004mesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] Object004 (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [Object004]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [ZoeEuropolisHairPonyTail] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count 2009097664.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (ZoeEuropolisHairPonyTailmesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHairPonyTail (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [ZoeEuropolisHairPonyTail]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [ZoeEuropolisHair] 
+[2018.08.09-16.20.48:477][923]LogFbx: 	Total Deformer Count -142605312.
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: 	Attribute (ZoeEuropolisHairmesh) Type (4).
+[2018.08.09-16.20.48:477][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHair (Type Mesh).
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node END [ZoeEuropolisHair]
+[2018.08.09-16.20.48:477][923]LogFbx: =================================================
+[2018.08.09-16.20.48:477][923]LogFbx: Dumping Node START [Object005] 
+[2018.08.09-16.20.48:478][923]LogFbx: 	Total Deformer Count 7252736.
+[2018.08.09-16.20.48:478][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:478][923]LogFbx: =================================================
+[2018.08.09-16.20.48:478][923]LogFbx: 	Attribute (Object005mesh) Type (4).
+[2018.08.09-16.20.48:478][923]LogFbx: 		[Node Attribute Child 1] Object005 (Type Mesh).
+[2018.08.09-16.20.48:478][923]LogFbx: Dumping Node END [Object005]
+[2018.08.09-16.20.48:478][923]LogFbx: =================================================
+[2018.08.09-16.20.48:478][923]LogFbx: Dumping Node START [Object006] 
+[2018.08.09-16.20.48:478][923]LogFbx: 	Total Deformer Count 7252736.
+[2018.08.09-16.20.48:478][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.20.48:478][923]LogFbx: =================================================
+[2018.08.09-16.20.48:478][923]LogFbx: 	Attribute (Object006mesh) Type (4).
+[2018.08.09-16.20.48:478][923]LogFbx: 		[Node Attribute Child 1] Object006 (Type Mesh).
+[2018.08.09-16.20.48:478][923]LogFbx: Dumping Node END [Object006]
+[2018.08.09-16.20.48:480][923]LogFbx: Valid bind pose for Pose (BindPose) - Text001
+[2018.08.09-16.20.48:481][923]LogFbx: Triangulating skeletal mesh Text001
+[2018.08.09-16.20.48:554][923]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.08.09-16.20.49:335][923]LogSkeletalMesh: Section 0: 23658 vertices, 52 active bones
+[2018.08.09-16.20.49:338][923]LogSkeletalMesh: Section 0: Material=0, 39397 triangles
+[2018.08.09-16.20.49:340][923]LogSkeletalMesh: Building Skeletal Mesh Flip_Kick...
+[2018.08.09-16.21.57:259][923]LogSkeletalMesh: Built Skeletal Mesh [67.92s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Flip_Kick.Flip_Kick
+[2018.08.09-16.21.57:275][923]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/animations/Flip_Kick_PhysicsAsset'
+[2018.08.09-16.21.57:275][923]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/animations/Flip_Kick_PhysicsAsset'
+[2018.08.09-16.21.57:286][923]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_51:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.21.57:296][923]LogSkeletalMesh: Building Skeletal Mesh Flip_Kick...
+[2018.08.09-16.23.03:147][923]LogSkeletalMesh: Built Skeletal Mesh [65.85s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Flip_Kick.Flip_Kick
+[2018.08.09-16.23.03:162][923]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.09-16.23.03:162][923]FBXImport: Warning: Mesh 'Text001' has no UV set. Creating a default set. 
+[2018.08.09-16.23.03:172][923]LogSkeletalMesh: Building Skeletal Mesh Flip_Kick...
+[2018.08.09-16.24.08:615][923]LogSkeletalMesh: Built Skeletal Mesh [65.45s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Flip_Kick.Flip_Kick
+[2018.08.09-16.24.08:642][923]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:/Users/Kira/Desktop/sin/Новая папка/Jump Over.fbx)
+[2018.08.09-16.24.08:657][923]LogFbx: Loading FBX Scene from C:/Users/Kira/Desktop/sin/Новая папка/Jump Over.fbx
+[2018.08.09-16.24.08:712][923]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.09-16.24.08:712][923]LogFbx: =================================================
+[2018.08.09-16.24.08:712][923]LogFbx: Dumping Node START [Text001] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count -1735944424.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (Text001mesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] Text001 (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [Text001]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [ZoeEuropolisBody] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count -1507363088.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (ZoeEuropolisBodymesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisBody (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [ZoeEuropolisBody]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [Object001] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count 2016186048.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (Object001mesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] Object001 (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [Object001]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [Object002] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count 2016186048.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (Object002mesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] Object002 (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [Object002]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [Object003] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count 2016186048.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (Object003mesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] Object003 (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [Object003]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [Object004] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count 2016186048.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (Object004mesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] Object004 (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [Object004]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [ZoeEuropolisHairPonyTail] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count -1889065984.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (ZoeEuropolisHairPonyTailmesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHairPonyTail (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [ZoeEuropolisHairPonyTail]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [ZoeEuropolisHair] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count -1507363888.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (ZoeEuropolisHairmesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHair (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [ZoeEuropolisHair]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [Object005] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count 2016196608.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: 	Attribute (Object005mesh) Type (4).
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node Attribute Child 1] Object005 (Type Mesh).
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node END [Object005]
+[2018.08.09-16.24.08:713][923]LogFbx: =================================================
+[2018.08.09-16.24.08:713][923]LogFbx: Dumping Node START [Object006] 
+[2018.08.09-16.24.08:713][923]LogFbx: 	Total Deformer Count 2016196608.
+[2018.08.09-16.24.08:713][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (Object006mesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] Object006 (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [Object006]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [Text001] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count -1735939440.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (Text001mesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] Text001 (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [Text001]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [ZoeEuropolisBody] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count -1507364368.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (ZoeEuropolisBodymesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisBody (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [ZoeEuropolisBody]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [Object001] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count 2016184768.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (Object001mesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] Object001 (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [Object001]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [Object002] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count 2016184768.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (Object002mesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] Object002 (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [Object002]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [Object003] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count 2016184768.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (Object003mesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] Object003 (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [Object003]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [Object004] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count 2016184768.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (Object004mesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] Object004 (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [Object004]
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node START [ZoeEuropolisHairPonyTail] 
+[2018.08.09-16.24.08:714][923]LogFbx: 	Total Deformer Count -1889066656.
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:714][923]LogFbx: =================================================
+[2018.08.09-16.24.08:714][923]LogFbx: 	Attribute (ZoeEuropolisHairPonyTailmesh) Type (4).
+[2018.08.09-16.24.08:714][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHairPonyTail (Type Mesh).
+[2018.08.09-16.24.08:714][923]LogFbx: Dumping Node END [ZoeEuropolisHairPonyTail]
+[2018.08.09-16.24.08:715][923]LogFbx: =================================================
+[2018.08.09-16.24.08:715][923]LogFbx: Dumping Node START [ZoeEuropolisHair] 
+[2018.08.09-16.24.08:715][923]LogFbx: 	Total Deformer Count -1507365008.
+[2018.08.09-16.24.08:715][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:715][923]LogFbx: =================================================
+[2018.08.09-16.24.08:715][923]LogFbx: 	Attribute (ZoeEuropolisHairmesh) Type (4).
+[2018.08.09-16.24.08:715][923]LogFbx: 		[Node Attribute Child 1] ZoeEuropolisHair (Type Mesh).
+[2018.08.09-16.24.08:715][923]LogFbx: Dumping Node END [ZoeEuropolisHair]
+[2018.08.09-16.24.08:715][923]LogFbx: =================================================
+[2018.08.09-16.24.08:715][923]LogFbx: Dumping Node START [Object005] 
+[2018.08.09-16.24.08:715][923]LogFbx: 	Total Deformer Count 2016194176.
+[2018.08.09-16.24.08:715][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:715][923]LogFbx: =================================================
+[2018.08.09-16.24.08:715][923]LogFbx: 	Attribute (Object005mesh) Type (4).
+[2018.08.09-16.24.08:715][923]LogFbx: 		[Node Attribute Child 1] Object005 (Type Mesh).
+[2018.08.09-16.24.08:715][923]LogFbx: Dumping Node END [Object005]
+[2018.08.09-16.24.08:715][923]LogFbx: =================================================
+[2018.08.09-16.24.08:715][923]LogFbx: Dumping Node START [Object006] 
+[2018.08.09-16.24.08:715][923]LogFbx: 	Total Deformer Count 2016194176.
+[2018.08.09-16.24.08:715][923]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.08.09-16.24.08:715][923]LogFbx: =================================================
+[2018.08.09-16.24.08:715][923]LogFbx: 	Attribute (Object006mesh) Type (4).
+[2018.08.09-16.24.08:715][923]LogFbx: 		[Node Attribute Child 1] Object006 (Type Mesh).
+[2018.08.09-16.24.08:715][923]LogFbx: Dumping Node END [Object006]
+[2018.08.09-16.24.08:717][923]LogFbx: Valid bind pose for Pose (BindPose) - Text001
+[2018.08.09-16.24.08:718][923]LogFbx: Triangulating skeletal mesh Text001
+[2018.08.09-16.24.08:793][923]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.08.09-16.24.09:588][923]LogSkeletalMesh: Section 0: 23658 vertices, 52 active bones
+[2018.08.09-16.24.09:591][923]LogSkeletalMesh: Section 0: Material=0, 39397 triangles
+[2018.08.09-16.24.09:593][923]LogSkeletalMesh: Building Skeletal Mesh Jump_Over...
+[2018.08.09-16.25.14:043][923]LogSkeletalMesh: Built Skeletal Mesh [64.45s] /Game/ThirdPersonBP/Blueprints/Sin/animations/Jump_Over.Jump_Over
+[2018.08.09-16.25.14:055][923]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/animations/Jump_Over_PhysicsAsset'
+[2018.08.09-16.25.14:055][923]LogLinker: Can't find file '/Game/ThirdPersonBP/Blueprints/Sin/animations/Jump_Over_PhysicsAsset'
+[2018.08.09-16.25.14:064][923]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_53:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.08.09-16.25.14:073][923]LogSkeletalMesh: Building Skeletal Mesh Jump_Over...
